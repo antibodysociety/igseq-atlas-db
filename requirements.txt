@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+scipy
+biopython
+pandera
+kaleido
+palettable
