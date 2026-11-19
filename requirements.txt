@@ -8,3 +8,10 @@ biopython
 pandera
 kaleido
 palettable
+notebook
+ipykernel
+beautifulsoup4
+aiohttp
+requests
+urllib3
+pydantic>=2
