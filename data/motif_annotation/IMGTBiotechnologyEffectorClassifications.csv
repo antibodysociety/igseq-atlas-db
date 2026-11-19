@@ -1,0 +1,599 @@
+Species,IMGT gene name,variant_label,eu_imgt_positions,outer_property_label,property_classification,table_source,reference,mutation_set,reference_id,citation,sub_classification,group,mutation_string_pe,eu_imgt_position_skip_reason,is_singular
+Homo sapiens,IGHG1,1-G1v1 CH2 P1.4,E233P,Effector,ADCC reduction,fc_variants,[1],E233P,1,Chappel M.S. et al. (1991),Silence,Silence,E233P,,True
+Homo sapiens,IGHG1,1-G1v2 CH2 V1.3,L234V,Effector,ADCC reduction,fc_variants,[1],L234V,1,Chappel M.S. et al. (1991),Silence,Silence,L234V,,True
+Homo sapiens,IGHG1,1-G1v3 CH2 A1.2,L235A,Effector,ADCC reduction,fc_variants,[1],L235A,1,Chappel M.S. et al. (1991),Silence,Silence,L235A,,True
+Homo sapiens,IGHG1,6-G1v4 CH2 A114,P329A,Effector,ADCC and CDC reduction,fc_variants,[2],P329A,2,Idusogie E.E. et al. (2000),Silence,Silence,P329A,,True
+Homo sapiens,IGHG1,6-G1v4-2 CH2 R114,P329R,Effector,ADCC and CDC reduction,fc_variants,[2],P329R,2,Idusogie E.E. et al. (2000),Silence,Silence,P329R,,True
+Homo sapiens,IGHG1,"1,4-G1v5 CH2 W109",K326W,Effector,ADCC reduction CDC enhancement,fc_variants,[3],K326W,3,Idusogie E.E. et al. (2001),Effector,Effector,K326W,,True
+Homo sapiens,IGHG1,4-G1v15 CH2 S118,E333S,Effector,CDC enhancement,fc_variants,[3],E333S,3,Idusogie E.E. et al. (2001),Effector,Effector,E333S,,True
+Homo sapiens,IGHG1,5-G1v19 CH2 A34,D270A,Effector,CDC reduction,fc_variants,[2],D270A,2,Idusogie E.E. et al. (2000),Silence,Silence,D270A,,True
+Homo sapiens,IGHG1,5-G1v20 CH2 A105,K322A,Effector,CDC reduction,fc_variants,[2],K322A,2,Idusogie E.E. et al. (2000),Silence,Silence,K322A,,True
+Homo sapiens,IGHG1,6-G1v23 CH2 E1.2,L235E,Effector,ADCC and CDC reduction,fc_variants,[19],L235E,19,Alegre M.L. et al. (1992),Silence,Silence,L235E,,True
+Homo sapiens,IGHG1,9-G1v24-1 CH3 V107,M428V,Half-life,Half-life increase,fc_variants,[56],M428V,56,"Patent WO 2020/076977-A2 (Ap. 16, 2020)",Halflife,Halflife,M428V,,True
+Homo sapiens,IGHG1,14-G1v26 CH3 Y22,T366Y,Structure,Heteropairing H-H enhancement,fc_variants,[22],T366Y,22,Ridgway J.B. et al. Prot Eng (1996),Structure,Structure,T366Y,,True
+Homo sapiens,IGHG1,14-G1v31 CH3 T86,Y407T,Structure,Heteropairing H-H enhancement,fc_variants,[22],Y407T,22,Ridgway J.B. et al. Prot Eng (1996),Structure,Structure,Y407T,,True
+Homo sapiens,IGHG1,16-G1v27 CH2 C3,S239C,Structure,Site-specific drug attachment,fc_variants,[23],S239C,23,Thompson P. et al. J Control Release (2016),Structure,Structure,S239C,,True
+Homo sapiens,IGHG1,16-G1v27-1 CH1 C1.4,A118C,Structure,Site-specific drug attachment,fc_variants,[109],A118C,109,Junutula J. et al. (2008),Structure,Structure,A118C,,True
+Homo sapiens,IGHG1,16-G1v28 CH2 3^4 ins^C,C239^240,Structure,Site-specific drug attachment,fc_variants,[24],C239^240,24,Dimasi N. et al. (2017),Structure,Structure,C239+,,True
+Homo sapiens,IGHG1,8-G1v29 CH2 A84.4,N297A,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[25],N297A,25,Wang X. et al. (2018),Silence,Silence,N297A,,True
+Homo sapiens,IGHG1,8-G1v30 CH2 G84.4,N297G,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[25],N297G,25,Wang X. et al. (2018),Silence,Silence,N297G,,True
+Homo sapiens,IGHG1,8-G1v30-1 CH2 H84.4,N297H,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[37],N297H,37,Sazinsky S. L. et al. (2008),Silence,Silence,N297H,,True
+Homo sapiens,IGHG1,14-G1v31-1 CH3 A86,Y407A,Structure,Heteropairing H-H enhancement,fc_variants,[146],Y407A,146,Liu R. et al. Exp Hematol Oncol. 14(1):136 (2025). PMID: 41275209 (2025),Structure,Structure,Y407A,,True
+Homo sapiens,IGHG1,14-G1v32 CH3 W22,T366W,Structure,Heteropairing H-H enhancement,fc_variants,[26],T366W,26,Atwell S. (1997),Structure,Structure,T366W,,True
+Homo sapiens,IGHG1,13-G1v34 CH3 G109,E430G,Structure,Hexamerisation,fc_variants,[27],E430G,27,Tammen A. et al. (2017),Structure,Structure,E430G,,True
+Homo sapiens,IGHG1,4-G1v35 CH2 E29,S267E,Effector,CDC enhancement,fc_variants,[15],S267E,15,Moore G.L. et al. (2010),Effector,Effector,S267E,,True
+Homo sapiens,IGHG1,8-G1v36 CH2 Q84.4,N297Q,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[25],N297Q,25,Wang X. et al. (2018),Silence,Silence,N297Q,,True
+Homo sapiens,IGHG1,8-G1v36-1 CH2 S84.4,N297S,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[49],N297S,49,Rogel A. et al. (2022),Silence,Silence,N297S,,True
+Homo sapiens,IGHG1,15-KCv36 C-KAPPA S126,C214S,Structure,Suppression of inter H-L disulfide bridge,fc_variants,[108],C214S,108,Joshi K. K. et al. (2019),Structure,Structure,C214S,,True
+Homo sapiens,IGHG1,15-G1v37 h S5,C220S,Structure,Suppression of inter H-L disulfide bridge,fc_variants,[108],C220S,108,Joshi K. K. et al. (2019),Structure,Structure,C220S,,True
+Homo sapiens,IGHG1,15-G1v37-1 h G5,C220G,Structure,Suppression of inter H-L disulfide bridge,fc_variants,[104],C220G,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,C220G,,True
+Homo sapiens,IGHG1,16-G1v44 CH3 C122,S442C,Structure,Site-specific drug attachment,fc_variants,[33],S442C,33,Zhou Q. et al. (2021),Structure,Structure,S442C,,True
+Homo sapiens,IGHG1,1-G1v47 CH2 delG1.1,G236del,Effector,ADCC reduction,fc_variants,[36],G236del,36,Brinkhaus M. et al. (2020),Silence,Silence,G236-,,True
+Homo sapiens,IGHG1,6-G1v48 CH2 R113,L328R,Effector,ADCC and CDC reduction,fc_variants,[75],L328R,75,Lefranc M. P. (2022),Silence,Silence,L328R,,True
+Homo sapiens,IGHG1,6-G1v49 CH2 G114,P329G,Effector,ADCC and CDC reduction,fc_variants,[12],P329G,12,Schlothauer T. et al. Protein Eng Des Sel (2016),Silence,Silence,P329G,,True
+Homo sapiens,IGHG1,6-G1v51 CH2 K29,S267K,Effector,ADCC and CDC reduction,fc_variants,[75],S267K,75,Lefranc M. P. (2022),Silence,Silence,S267K,,True
+Homo sapiens,IGHG1,16-G1v55 CH2 C123,L443C,Structure,Site-specific drug attachment,fc_variants,[33],L443C,33,Zhou Q. et al. (2021),Structure,Structure,L443C,,True
+Homo sapiens,IGHG1,16-G1v56-1 CH1 F(pAF)1.4,A118F (pAF),Structure,Site-specific drug attachment,fc_variants,[99],A118F (pAF),99,Skidmore L. et al. Mol Cancer Ther. 19(9):1833-1843 (2020). PMID: 32669315 (2020),Structure,Structure,A118F (pAF),noncanonical_chemistry,True
+Homo sapiens,IGHG1,16-G1v56-2 CH3 F(pAMF)85.2,F404F (pAMF),Structure,Site-specific drug attachment,fc_variants,[112],F404F (pAMF),112,Abrahams C.L. et al. Oncotarget (2018),Structure,Structure,F404F (pAMF),noncanonical_chemistry,True
+Homo sapiens,IGHG1,17-G1v57-3 CH1 D26,K147D,Structure,Heteropairing H-L enhancement,fc_variants,[104],K147D,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,K147D,,True
+Homo sapiens,IGHG1,17-KCv57-3 C-KAPPA K20,S131K,Structure,Heteropairing H-L enhancement,fc_variants,[104],S131K,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,S131K,,True
+Homo sapiens,IGHG1,15-G1v61 h S11,C226S,Structure,Suppression of inter H-H disulfide bridge,fc_variants,[75],C226S,75,Lefranc M. P. (2022),Structure,Structure,C226S,,True
+Homo sapiens,IGHG1,15-G1v62 h S14,C229S,Structure,Suppression of inter H-H disulfide bridge,fc_variants,[75],C229S,75,Lefranc M. P. (2022),Structure,Structure,C229S,,True
+Homo sapiens,IGHG1,6-G1v63 CH2 S2,P238S,Effector,ADCC and CDC reduction,fc_variants,[75],P238S,75,Lefranc M. P. (2022),Silence,Silence,P238S,,True
+Homo sapiens,IGHG1,"6,7-G1v63-2 CH2 D2",P238D,Effector,ADCC reduction B cell inhibition,fc_variants,[113],P238D,113,Lefranc MP (2024),Silence,Silence,P238D,,True
+Homo sapiens,IGHG1,16-G1v64 CH2 C36,E272C,Structure,Site-specific drug attachment,fc_variants,[42],E272C,42,"US patent 10,744,204 B2 (Aug. 18, 2020)",Structure,Structure,E272C,,True
+Homo sapiens,IGHG1,1-G1v66 CH2 A27,D265A,Effector,ADCC reduction,fc_variants,[75],D265A,75,Lefranc M. P. (2022),Silence,Silence,D265A,,True
+Homo sapiens,IGHG1,1-G1v67 CH2 S27,D265S,Effector,ADCC reduction,fc_variants,[75],D265S,75,Lefranc M. P. (2022),Silence,Silence,D265S,,True
+Homo sapiens,IGHG1,17-G1v69-1 CH1 K86,S183K,Structure,Heteropairing H-L enhancement,fc_variants,[130],S183K,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,S183K,,True
+Homo sapiens,IGHG1,14-G1v74 CH3 C10,S354C,Structure,Heteropairing H-H enhancement,fc_variants,[50],S354C,50,Merchant A. M. et al. (1998),Structure,Structure,S354C,,True
+Homo sapiens,IGHG1,14-G1v75 CH3 C5,Y349C,Structure,Heteropairing H-H enhancement,fc_variants,[50],Y349C,50,Merchant A. M. et al. (1998),Structure,Structure,Y349C,,True
+Homo sapiens,IGHG1,16-G1v76 CH2 C27,D265C,Structure,Site-specific drug attachment,fc_variants,[134],D265C,134,"US Patent 2020/0407440-A1 (Dec. 31, 2020)",Structure,Structure,D265C,,True
+Homo sapiens,IGHG1,9-G1v77 CH3 A115,H435A,Half-life,Half-life decrease,fc_variants,[113],H435A,113,Lefranc MP (2024),Halflife,Halflife,H435A,,True
+Homo sapiens,IGHG1,9-G1v77-2 CH2 K17,R255K,Half-life,Half-life decrease,fc_variants,[104],R255K,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Halflife,Halflife,R255K,,True
+Homo sapiens,IGHG1,9-G1v78-2 CH3 A114,N434A,Half-life,Half-life increase,fc_variants,[113],N434A,113,Lefranc MP (2024),Halflife,Halflife,N434A,,True
+Homo sapiens,IGHG1,9-G1v78-3 CH3 K115,H435K,Half-life,Half-life increase,fc_variants,[54],H435K,54,"European Patent 2,282,770-A2 (Feb. 16, 2011)",Halflife,Halflife,H435K,,True
+Homo sapiens,IGHG1,1-G1v80 CH2 G116,P331G,Effector,ADCC reduction,fc_variants,[113],P331G,113,Lefranc MP (2024),Silence,Silence,P331G,,True
+Homo sapiens,IGHG1,16-G1v81 CH2 C81,K290C,Structure,Site-specific drug attachment,fc_variants,[89],K290C,89,Zhong X. et al. J Cancer Immunol. 4(2):65-70 (2022). DOI: cancerimmunol.4.068 (2022),Structure,Structure,K290C,,True
+Homo sapiens,IGHG1,16-KCv93 C-KAPPA C93,K183C,Structure,Site-specific drug attachment,fc_variants,[89],K183C,89,Zhong X. et al. J Cancer Immunol. 4(2):65-70 (2022). DOI: cancerimmunol.4.068 (2022),Structure,Structure,K183C,,True
+Homo sapiens,IGHG1,16-KCv93-1 C-KAPPA C117,V205C,Structure,Site-specific drug attachment,fc_variants,[148],V205C,148,"Patent US 2024/0197906-A1 (June. 20, 2024)",Structure,Structure,V205C,,True
+Homo sapiens,IGHG1,18-G1v82-1 CH3 L85.1,F405L,Structure,Control of bispecific H-H heteropairing,fc_variants,[51],F405L,51,Labrijn A. F. et al. (2013),Structure,Structure,F405L,,True
+Homo sapiens,IGHG1,18-G1v82-2 CH3 R88,K409R,Structure,Control of bispecific H-H heteropairing,fc_variants,[51],K409R,51,Labrijn A. F. et al. (2013),Structure,Structure,K409R,,True
+Homo sapiens,IGHG1,14-G1v82-3 CH3 K85.1,F405K,Structure,Heteropairing H-H enhancement,fc_variants,[71],F405K,71,Wei H. et al. (2017),Structure,Structure,F405K,,True
+Homo sapiens,IGHG1,14-G1v82-4 CH3 A88,K409A,Structure,Heteropairing H-H enhancement,fc_variants,[71],K409A,71,Wei H. et al. (2017),Structure,Structure,K409A,,True
+Homo sapiens,IGHG1,10-G1v83-1 CH3 R115,H435R,Physicochemical properties,Protein A binding abrogation,fc_variants,[98],H435R,98,"Patent WO 2018/1566740-A1 (Aug. 30, 2018)",Other,Other,H435R,,True
+Homo sapiens,IGHG1,11-G1v93 CH1 C12,K133C,Structure,Additional inter H-L and/or inter H-H disulfide bridge,fc_variants,[136],K133C,136,"Patent AU 2017/269115-B2 (Feb. 5, 2017)",Structure,Structure,K133C,,True
+Homo sapiens,IGHG1,11-G1v94 CH1 C94,S191C,Structure,Additional inter H-L disulfide bridge,fc_variants,[137],S191C,137,"Patent US 11,147,852-B2 (Oct. 19, 2021)",Structure,Structure,S191C,,True
+Homo sapiens,IGHG1,"10,13-G1v98 CH3 R1",E345R,Structure,Hexamerisation,fc_variants,[118],E345R,118,Jong R.N. et al. PLoS Biol. 14(1):e1002344 (2016). PMID: 26736041 (2016),Structure,Structure,E345R,,True
+Homo sapiens,IGHG1,10-G1v100-1 CH1 E16,G137E,Physicochemical properties,pI engineering,fc_variants,[120],G137E,120,"Patent WO 2018/176992-A1 (Oct. 4, 2018)",Other,Other,G137E,,True
+Homo sapiens,IGHG1,1-G1v101 CH2 R31,E269R,Effector,ADCC reduction,fc_variants,[121],E269R,121,Meyer T. et al. Blood. 126(19):2230-8 (2015). PMID: 26396093 (2015),Silence,Silence,E269R,,True
+Homo sapiens,IGHG1,3-G1v104 CH2 A85.3,T299A,Effector,ADCC and ADCP enhancement,fc_variants,[37],T299A,37,Sazinsky S. L. et al. (2008),Effector,Effector,T299A,,True
+Homo sapiens,IGHG1,7-G1v105 CH3 P85.3,S403P,Effector,B cell inhibition,fc_variants,[74],S403P,74,"Patent WO 2017/040380-A2 (March 9, 2017)",Silence,Silence,S403P,,True
+Homo sapiens,IGHG1,1-G1v106 CH2 E37,V273E,Effector,ADCC reduction B cell inhibition,fc_variants,[48],V273E,48,Ye S. et al. (2019),Silence,Silence,V273E,,True
+Homo sapiens,IGHG1,5-G1v120 CH2 V115,A330V,Effector,CDC reduction,fc_variants,[114],A330V,114,Hale G. et al. mAbs 16(1):2402701 (2024). PMID: 39279104 (2024),Silence,Silence,A330V,,True
+Homo sapiens,IGHG2,9-G2v4 CH2 Q14,T250Q,Half-life,Half-life increase,fc_variants,[79],T250Q,79,Hinton P. R. et al. (2004),Halflife,Halflife,T250Q,,True
+Homo sapiens,IGHG2,9-G2v5 CH3 L107,M428L,Half-life,Half-life increase,fc_variants,[79],M428L,79,Hinton P. R. et al. (2004),Halflife,Halflife,M428L,,True
+Homo sapiens,IGHG2,9-G2v8-1 CH2 A93,H310A,Half-life,Half-life decrease,fc_variants,[47],H310A,47,Kenanova V. et al. Cancer Res (2005),Halflife,Halflife,H310A,,True
+Homo sapiens,IGHG2,5-G2v9 CH2 S116,P331S,Effector,CDC reduction,fc_variants,[114],P331S,114,Hale G. et al. mAbs 16(1):2402701 (2024). PMID: 39279104 (2024),Silence,Silence,P331S,,True
+Homo sapiens,IGHG2,5-G2v20 CH2 A105,K322A,Effector,CDC reduction,fc_variants,[2],K322A,2,Idusogie E.E. et al. (2000),Silence,Silence,K322A,,True
+Homo sapiens,IGHG2,8-G2v36 CH2 Q84.4,N297Q,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[83],N297Q,83,"European Patent 2,526,967-A1 (Nov. 28, 2012)",Silence,Silence,N297Q,,True
+Homo sapiens,IGHG2,15-G2v37 h S4,C219S,Structure,Suppression of inter H-H disulfide bridge,fc_variants,[84],C219S,84,"US patent 10,653,791-B2 (May 19, 2020)",Structure,Structure,C219S,,True
+Homo sapiens,IGHG2,15-G2v97 CH1 S10,C131S,Structure,Suppression of inter H-H disulfide bridge,fc_variants,[122],C131S,122,Romei M.G. Nat Commun 15(1):642 (2024). PMID: 38245524 (2024),Structure,Structure,C131S,,True
+Homo sapiens,IGHG3,9-G3v1 CH3 H115,R435H,Half-life,Half-life increase,fc_variants,[77],R435H,77,Stapleton N.M. et al. (2011),Halflife,Halflife,R435H,,True
+Homo sapiens,IGHG4,2-G4v1 CH2 L1.3,F234L,Effector,ADCC enhancement,fc_variants,[1],F234L,1,Chappel M.S. et al. (1991),Effector,Effector,F234L,,True
+Homo sapiens,IGHG4,4-G4v2 CH2 P116,S331P,Effector,CDC enhancement,fc_variants,[88],S331P,88,Tao M. H. et al. (1993),Effector,Effector,S331P,,True
+Homo sapiens,IGHG4,6-G4v3 CH2 E1.2,L235E,Effector,ADCC and CDC reduction,fc_variants,[19],L235E,19,Alegre M.L. et al. (1992),Silence,Silence,L235E,,True
+Homo sapiens,IGHG4,6-G4v4-1 CH2 A1.2,L235A,Effector,ADCC and CDC reduction,fc_variants,[115],L235A,115,"Patent WO 2008/129124-A1 (Oct. 30, 2008)",Silence,Silence,L235A,,True
+Homo sapiens,IGHG4,12-G4v5 h P10,S228P,Structure,IgG4 half-IG exchange reduction,fc_variants,[90],S228P,90,Labrijn A. F. et al. (2009),Structure,Structure,S228P,,True
+Homo sapiens,IGHG4,12-G4v6 CH3 K88,R409K,Structure,IgG4 half-IG exchange reduction,fc_variants,[91],R409K,91,Labrijn A. F. et al. (2011),Structure,Structure,R409K,,True
+Homo sapiens,IGHG4,10-G4v8-1 CH3 P125,L445P,Structure,Acid-induced aggregation reduction,fc_variants,[105],L445P,105,Xu C. A. et al. (2019),Structure,Structure,L445P,,True
+Homo sapiens,IGHG4,14-G4v12 CH3 K12,E356K,Structure,Heteropairing H-H enhancement,fc_variants,[103],E356K,103,Duivelshof B. L. et al. (2022),Structure,Structure,E356K,,True
+Homo sapiens,IGHG4,14-G4v13 CH3 E119,K439E,Structure,Heteropairing H-H enhancement,fc_variants,[103],K439E,103,Duivelshof B. L. et al. (2022),Structure,Structure,K439E,,True
+Homo sapiens,IGHG4,8-G4v30 CH2 G84.4,N297G,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[123],N297G,123,"Patent WO 2017/180864-A1 (Oct. 19, 2017)",Silence,Silence,N297G,,True
+Homo sapiens,IGHG4,14-G4v32 CH3 W22,T366W,Structure,Heteropairing H-H enhancement,fc_variants,[26],T366W,26,Atwell S. (1997),Structure,Structure,T366W,,True
+Homo sapiens,IGHG4,8-G4v36 CH2 Q84.4,N297Q,Effector,No N-glycosylation site (CH2 N84.4) ADCC reduction,fc_variants,[12],N297Q,12,Schlothauer T. et al. Protein Eng Des Sel (2016),Silence,Silence,N297Q,,True
+Homo sapiens,IGHG4,6-G4v49 CH2 G114,P329G,Effector,ADCC and CDC reduction,fc_variants,[12],P329G,12,Schlothauer T. et al. Protein Eng Des Sel (2016),Silence,Silence,P329G,,True
+Homo sapiens,IGHG4,1-G4v66 CH2 A27,D265A,Effector,ADCC reduction,fc_variants,[113],D265A,113,Lefranc MP (2024),Silence,Silence,D265A,,True
+Homo sapiens,IGHG4,14-G4v74 CH3 C10,S354C,Structure,Heteropairing H-H enhancement,fc_variants,[50],S354C,50,Merchant A. M. et al. (1998),Structure,Structure,S354C,,True
+Homo sapiens,IGHG4,14-G4v75 CH3 C5,Y349C,Structure,Heteropairing H-H enhancement,fc_variants,[50],Y349C,50,Merchant A. M. et al. (1998),Structure,Structure,Y349C,,True
+Homo sapiens,IGHG4,10-G4v83-1 CH3 R115,H435R,Physicochemical properties,Protein A binding abrogation,fc_variants,[103],H435R,103,Duivelshof B. L. et al. (2022),Other,Other,H435R,,True
+Homo sapiens,IGHG4,15-G4v97 CH1 S10,C131S,Structure,Suppression of inter H-L disulfide bridge,fc_variants,[125],C131S,125,Schuurman J. et al. Mol Immunol. 38(1):1-8 (2011). PMID: 11483205 (2011),Structure,Structure,C131S,,True
+Homo sapiens,J-CHAIN,9-Jchain-v1 A103,Y102A,Half-life,Half-life decrease,fc_variants,[129],Y102A,129,"Patent WO 2019/169314-A1 (Sep. 6, 2019)",Halflife,Halflife,Y102A,,True
+Homo sapiens,IGLC2,unk-1,A150G,uknown propert,uknown propert,unknown_effects,,A150G,,,Unknown,Unknown,A150G,,True
+Homo sapiens,IGHG1,unk-3,P445T,uknown propert,uknown propert,unknown_effects,,P445T,,,Unknown,Unknown,P445T,,True
+Homo sapiens,IGLC2,unk-4,G107S,uknown propert,uknown propert,unknown_effects,,G107S,,,Unknown,Unknown,G107S,,True
+Homo sapiens,IGLC2,unk-5,T212A,uknown propert,uknown propert,unknown_effects,,T212A,,,Unknown,Unknown,T212A,,True
+Homo sapiens,IGHG1,unk-7,V215A,uknown propert,uknown propert,unknown_effects,,V215A,,,Unknown,Unknown,V215A,,True
+Homo sapiens,IGLC2,unk-8,S114T,uknown propert,uknown propert,unknown_effects,,S114T,,,Unknown,Unknown,S114T,,True
+Homo sapiens,IGHG4,unk-10,A215^216,uknown propert,uknown propert,unknown_effects,,A215^216,,,Unknown,Unknown,A215+,,True
+Homo sapiens,IGHG1,unk-13,C220L,uknown propert,uknown propert,unknown_effects,,C220L,,,Unknown,Unknown,C220L,,True
+Homo sapiens,IGHG1,unk-14,L179P,uknown propert,uknown propert,unknown_effects,,L179P,,,Unknown,Unknown,L179P,,True
+Homo sapiens,IGHG1,unk-15,K213A,uknown propert,uknown propert,unknown_effects,,K213A,,,Unknown,Unknown,K213A,,True
+Homo sapiens,IGHG1,unk-16,Y436del,uknown propert,uknown propert,unknown_effects,,Y436del,,,Unknown,Unknown,Y436-,,True
+Homo sapiens,IGHG1,unk-18,S131A,uknown propert,uknown propert,unknown_effects,,S131A,,,Unknown,Unknown,S131A,,True
+Homo sapiens,IGHG4,unk-19,D249P,uknown propert,uknown propert,unknown_effects,,D249P,,,Unknown,Unknown,D249P,,True
+Homo sapiens,IGKC,unk-20,S202del,uknown propert,uknown propert,unknown_effects,,S202del,,,Unknown,Unknown,S202-,,True
+Homo sapiens,IGHG4,unk-22,V397M,uknown propert,uknown propert,unknown_effects,,V397M,,,Unknown,Unknown,V397M,,True
+Homo sapiens,IGHG1,unk-23,F126L,uknown propert,uknown propert,unknown_effects,,F126L,,,Unknown,Unknown,F126L,,True
+Homo sapiens,IGKC,unk-24,T109E,uknown propert,uknown propert,unknown_effects,,T109E,,,Unknown,Unknown,T109E,,True
+Homo sapiens,IGKC,unk-25,T109S,uknown propert,uknown propert,unknown_effects,,T109S,,,Unknown,Unknown,T109S,,True
+Homo sapiens,IGHG1,unk-26,S403F,uknown propert,uknown propert,unknown_effects,,S403F,,,Unknown,Unknown,S403F,,True
+Homo sapiens,IGHG1,unk-28,S124L,uknown propert,uknown propert,unknown_effects,,S124L,,,Unknown,Unknown,S124L,,True
+Homo sapiens,IGLC2,unk-29,G107R,uknown propert,uknown propert,unknown_effects,,G107R,,,Unknown,Unknown,G107R,,True
+Homo sapiens,IGKC,unk-30,T109A,uknown propert,uknown propert,unknown_effects,,T109A,,,Unknown,Unknown,T109A,,True
+Homo sapiens,IGKC,unk-32,R108G,uknown propert,uknown propert,unknown_effects,,R108G,,,Unknown,Unknown,R108G,,True
+Homo sapiens,IGKC,unk-39,R108del,uknown propert,uknown propert,unknown_effects,,R108del,,,Unknown,Unknown,R108-,,True
+Homo sapiens,IGHG1,unk-40,A118S,uknown propert,uknown propert,unknown_effects,,A118S,,,Unknown,Unknown,A118S,,True
+Homo sapiens,IGHG2,unk-41,G446S,uknown propert,uknown propert,unknown_effects,,G446S,,,Unknown,Unknown,G446S,,True
+Homo sapiens,IGHG1,unk-44,T394M,uknown propert,uknown propert,unknown_effects,,T394M,,,Unknown,Unknown,T394M,,True
+Homo sapiens,IGHG4,unk-45,Q180K,uknown propert,uknown propert,unknown_effects,,Q180K,,,Unknown,Unknown,Q180K,,True
+Canis lupus familiares,IGHG2,Canlupfam unk-1,T135Q,uknown propert,uknown propert,unknown_effects,,T135Q,,,Unknown,Unknown,T135Q,,True
+Canis lupus familiares,IGKC,Canlupfam unk-2,S167^168,uknown propert,uknown propert,unknown_effects,,S167^168,,,Unknown,Unknown,S167+,,True
+Canis lupus familiares,IGHG2,Canlupfam unk-3,N434H,uknown propert,uknown propert,unknown_effects,,N434H,,,Unknown,Unknown,N434H,,True
+Felis catus,IGKC,Felcat unk-3,N210Q,uknown propert,uknown propert,unknown_effects,,N210Q,,,Unknown,Unknown,N210Q,,True
+Mus musculus,IGHG1,Musmus unk-3,E175Q,uknown propert,uknown propert,unknown_effects,,E175Q,,,Unknown,Unknown,E175Q,,True
+Mus musculus,IGHG2A,Musmus unk-6,D134G,uknown propert,uknown propert,unknown_effects,,D134G,,,Unknown,Unknown,D134G,,True
+Mus musculus,IGKC,Musmus unk-7,A111T,uknown propert,uknown propert,unknown_effects,,A111T,,,Unknown,Unknown,A111T,,True
+Mus musculus,IGHG1,Musmus unk-8,Q196E,uknown propert,uknown propert,unknown_effects,,Q196E,,,Unknown,Unknown,Q196E,,True
+Mus musculus,IGKC,Musmus unk-9,C214S,uknown propert,uknown propert,unknown_effects,,C214S,,,Unknown,Unknown,C214S,,True
+Homo sapiens,IGHG2,,A237G,,,fc_variants,,A237G,,,Effector,Effector,A237G,,False
+Homo sapiens,IGHG1,,A327G,,,fc_variants,,A327G,,,Silence,Silence,A327G,,False
+Homo sapiens,IGHG1,,A327Q,,,fc_variants,,A327Q,,,Silence,Silence,A327Q,,False
+Homo sapiens,IGHG1,,A330K,,,fc_variants,,A330K,,,Silence,Silence,A330K,,False
+Homo sapiens,IGHG1,,A330L,,,fc_variants,,A330L,,,Effector,Effector,A330L,,False
+Homo sapiens,IGHG1,,A330M,,,fc_variants,,A330M,,,Effector,Effector,A330M,,False
+Homo sapiens,IGHG1,,A330R,,,fc_variants,,A330R,,,Silence,Silence,A330R,,False
+Homo sapiens,IGHG1,,A330S,,,fc_variants,,A330S,,,Silence,Silence,A330S,,False
+Homo sapiens,IGHG2,,A330S,,,fc_variants,,A330S,,,Silence,Silence,A330S,,False
+Homo sapiens,IGHG1,,A339Q,,,fc_variants,,A339Q,,,Effector,Effector,A339Q,,False
+Homo sapiens,IGHG1,,A389^390,,,unknown_effects,,A389^390,,,Unknown,Unknown,A389+,,False
+Homo sapiens,IGHG1,,C214V,,,fc_variants,,C214V,,,Structure,Structure,C214V,,False
+Homo sapiens,IGKC,,C214del,,,unknown_effects,,C214del,,,Unknown,Unknown,C214-,,False
+Homo sapiens,IGHG2,,C220E,,,fc_variants,,C220E,,,Structure,Structure,C220E,,False
+Homo sapiens,IGHG2,,C220R,,,fc_variants,,C220R,,,Structure,Structure,C220R,,False
+Homo sapiens,IGHG1,,C220V,,,fc_variants,,C220V,,,Structure,Structure,C220V,,False
+Homo sapiens,IGHG1,,D221E,,,fc_variants,,D221E,,,Structure,Structure,D221E,,False
+Homo sapiens,IGHG1,,D221R,,,fc_variants,,D221R,,,Structure,Structure,D221R,,False
+Homo sapiens,IGHG1,,D265G,,,fc_variants,,D265G,,,Silence,Silence,D265G,,False
+Homo sapiens,IGHG1,,D270E,,,fc_variants,,D270E,,,Effector,Effector,D270E,,False
+Homo sapiens,IGHG1,,D356K,,,fc_variants,,D356K,,,Structure,Structure,D356K,,False
+Homo sapiens,IGHG1,,D399K,,,fc_variants,,D399K,,,Structure,Structure,D399K,,False
+Homo sapiens,IGHG2,,D399K,,,fc_variants,,D399K,,,Structure,Structure,D399K,,False
+Homo sapiens,IGHG1,,D399R,,,fc_variants,,D399R,,,Structure,Structure,D399R,,False
+Homo sapiens,IGHG1,,D399V,,,fc_variants,,D399V,,,Structure,Structure,D399V,,False
+Homo sapiens,IGHG1,,D401G,,,unknown_effects,,D401G,,,Unknown,Unknown,D401G,,False
+Homo sapiens,IGHG1,,D413K,,,fc_variants,,D413K,,,Other,Other,D413K,,False
+Homo sapiens,IGHG1,,D413T,,,fc_variants,,D413T,,,Other,Other,D413T,,False
+Homo sapiens,IGHG1,,E123R,,,fc_variants,,E123R,,,Structure,Structure,E123R,,False
+Homo sapiens,IGHD,,E193S,,,unknown_effects,,E193S,,,Unknown,Unknown,E193S,,False
+Homo sapiens,IGKC,,E213del,,,unknown_effects,,E213del,,,Unknown,Unknown,E213-,,False
+Felis catus,IGKC,,E217del,,,unknown_effects,,E217del,,,Unknown,Unknown,E217-,,False
+Homo sapiens,IGHG2,,E224R,,,fc_variants,,E224R,,,Structure,Structure,E224R,,False
+Homo sapiens,IGHG1,,E233D,,,fc_variants,,E233D,,,Silence,Silence,E233D,,False
+Homo sapiens,IGHG1,,E233del,,,fc_variants,,E233del,,,Silence,Silence,E233-,,False
+Homo sapiens,IGHG4,,E233del,,,fc_variants,,E233del,,,Silence,Silence,E233-,,False
+Homo sapiens,IGHG1,,E333A,,,fc_variants,,E333A,,,Effector,Effector,E333A,,False
+Homo sapiens,IGHG1,,E357K,,,fc_variants,,E357K,,,Structure,Structure,E357K,,False
+Homo sapiens,IGHG2,,E357K,,,fc_variants,,E357K,,,Structure,Structure,E357K,,False
+Homo sapiens,IGHG1,,E357L,,,fc_variants,,E357L,,,Structure,Structure,E357L,,False
+Homo sapiens,IGHG1,,E357Q,,,fc_variants,,E357Q,,,Structure,Structure,E357Q,,False
+Homo sapiens,IGHG1,,E388W,,,fc_variants,,E388W,,,Other,Other,E388W,,False
+Homo sapiens,IGHG1,,F126C,,,fc_variants,,F126C,,,Structure,Structure,F126C,,False
+Homo sapiens,IGHG1,,F170C,,,fc_variants,,F170C,,,Structure,Structure,F170C,,False
+Homo sapiens,IGHG1,,F209C,,,fc_variants,,F209C,,,Structure,Structure,F209C,,False
+Homo sapiens,IGHG4,,F234A,,,fc_variants,,F234A,,,Silence,Silence,F234A,,False
+Homo sapiens,IGHG4,,F234P,,,fc_variants,,F234P,,,Silence,Silence,F234P,,False
+Homo sapiens,IGHG4,,F234V,,,fc_variants,,F234V,,,Silence,Silence,F234V,,False
+Homo sapiens,IGHG1,,F243L,,,fc_variants,,F243L,,,Effector,Effector,F243L,,False
+Homo sapiens,IGHG2,,F296A,,,fc_variants,,F296A,,,Silence,Silence,F296A,,False
+Homo sapiens,IGHG4,,F296Y,,,fc_variants,,F296Y,,,Other,Other,F296Y,,False
+Homo sapiens,IGHG2,,F300Y,,,fc_variants,,F300Y,,,Silence,Silence,F300Y,,False
+Homo sapiens,IGHG1,,F405A,,,fc_variants,,F405A,,,Structure,Structure,F405A,,False
+Homo sapiens,IGHG1,,F405T,,,fc_variants,,F405T,,,Structure,Structure,F405T,,False
+Homo sapiens,VH - VL,,G100C,,,fc_variants,,G100C,,,Structure,Structure,G100C,,False
+Homo sapiens,IGHG1,,G166E,,,fc_variants,,G166E,,,Structure,Structure,G166E,,False
+Homo sapiens,IGHG1,,G166K,,,fc_variants,,G166K,,,Structure,Structure,G166K,,False
+Homo sapiens,IGKC,,G212del,,,unknown_effects,,G212del,,,Unknown,Unknown,G212-,,False
+Homo sapiens,IGHG1,,G236A,,,fc_variants,,G236A,,,Silence,Silence,G236A,,False
+Homo sapiens,IGHG4,,G236A,,,fc_variants,,G236A,,,Silence,Silence,G236A,,False
+Homo sapiens,IGHG1,,G236N,,,fc_variants,,G236N,,,Silence,Silence,G236N,,False
+Homo sapiens,IGHG1,,G236R,,,fc_variants,,G236R,,,Silence,Silence,G236R,,False
+Homo sapiens,IGHG1,,G236W,,,fc_variants,,G236W,,,Effector,Effector,G236W,,False
+Felis catus,IGHG1,,G237A,,,unknown_effects,,G237A,,,Silence,Silence,G237A,,False
+Homo sapiens,IGHG1,,G237A,,,fc_variants,,G237A,,,Silence,Silence,G237A,,False
+Homo sapiens,IGHG2,,G237A,,,fc_variants,,G237A,,,Silence,Silence,G237A,,False
+Homo sapiens,IGHG4,,G237A,,,fc_variants,,G237A,,,Silence,Silence,G237A,,False
+Homo sapiens,IGHG1,,G237D,,,fc_variants,,G237D,,,Silence,Silence,G237D,,False
+Homo sapiens,IGHG2,,G327A,,,fc_variants,,G327A,,,Effector,Effector,G327A,,False
+Homo sapiens,IGHG1,,G402D,,,unknown_effects,,G402D,,,Unknown,Unknown,G402D,,False
+Homo sapiens,IGHG1,,G446del,,,fc_variants,,G446del,,,Structure,Structure,G446-,,False
+Homo sapiens,IGHG4,,G446del,,,fc_variants,,G446del,,,Structure,Structure,G446-,,False
+Homo sapiens,VH - VL,,G44C,,,fc_variants,,G44C,,,Structure,Structure,G44C,,False
+Homo sapiens,IGHG1,,H2668F,,,fc_variants,,H2668F,,,Effector,Effector,H2668F,,False
+Homo sapiens,IGHG1,,H268A,,,fc_variants,,H268A,,,Silence,Silence,H268A,,False
+Homo sapiens,IGHG2,,H268A,,,fc_variants,,H268A,,,Silence,Silence,H268A,,False
+Homo sapiens,IGHG1,,H268D,,,fc_variants,,H268D,,,Silence,Silence,H268D,,False
+Homo sapiens,IGHG1,,H268Q,,,unknown_effects,,H268Q,,,Silence,Silence,H268Q,,False
+Homo sapiens,IGHG2,,H268Q,,,fc_variants,,H268Q,,,Silence,Silence,H268Q,,False
+Homo sapiens,IGHG1,,H433K,,,fc_variants,,H433K,,,Halflife,Halflife,H433K,,False
+Homo sapiens,IGHG1,,H433S,,,fc_variants,,H433S,,,Halflife,Halflife,H433S,,False
+Homo sapiens,IGHG1,,I253A,,,fc_variants,,I253A,,,Halflife,Halflife,I253A,,False
+Mus musculus,IGHG1,,I296F,,,unknown_effects,,I296F,,,Unknown,Unknown,I296F,,False
+Homo sapiens,IGHG1,,I332E,,,fc_variants,,I332E,,,Effector,Effector,I332E,,False
+Homo sapiens,IGHG2,,I332E,,,fc_variants,,I332E,,,Effector,Effector,I332E,,False
+Homo sapiens,IGHG1,,K147E,,,fc_variants,,K147E,,,Structure,Structure,K147E,,False
+Homo sapiens,IGHG4,,K147E,,,unknown_effects,,K147E,,,Structure,Structure,K147E,,False
+Homo sapiens,IGHG1,,K147T,,,fc_variants,,K147T,,,Structure,Structure,K147T,,False
+Homo sapiens,IGHD,,K192G,,,unknown_effects,,K192G,,,Unknown,Unknown,K192G,,False
+Homo sapiens,IGHG4,,K196Q,,,fc_variants,,K196Q,,,Other,Other,K196Q,,False
+Homo sapiens,IGLC3,,K207R,,,unknown_effects,,K207R,,,Unknown,Unknown,K207R,,False
+Homo sapiens,IGHG1,,K213E,,,fc_variants,,K213E,,,Structure,Structure,K213E,,False
+Homo sapiens,IGHG1,,K214T,,,unknown_effects,,K214T,,,Unknown,Unknown,K214T,,False
+Homo sapiens,IGHG1,,K222C,,,fc_variants,,K222C,,,Structure,Structure,K222C,,False
+Homo sapiens,IGHG1,,K222del,,,unknown_effects,,K222del,,,Unknown,Unknown,K222-,,False
+Homo sapiens,IGHG1,,K274Q,,,unknown_effects,,K274Q,,,Unknown,Unknown,K274Q,,False
+Mus musculus,IGHG1,,K290Q,,,unknown_effects,,K290Q,,,Unknown,Unknown,K290Q,,False
+Homo sapiens,IGHG1,,K306E,,,fc_variants,,K306E,,,Structure,Structure,K306E,,False
+Homo sapiens,IGHG1,,K322Q,,,fc_variants,,K322Q,,,Silence,Silence,K322Q,,False
+Homo sapiens,IGHG1,,K326A,,,fc_variants,,K326A,,,Effector,Effector,K326A,,False
+Homo sapiens,IGHG1,,K326D,,,fc_variants,,K326D,,,Effector,Effector,K326D,,False
+Homo sapiens,IGHG1,,K334A,,,fc_variants,,K334A,,,Effector,Effector,K334A,,False
+Homo sapiens,IGHG1,,K334E,,,fc_variants,,K334E,,,Effector,Effector,K334E,,False
+Homo sapiens,IGHG1,,K360S,,,fc_variants,,K360S,,,Structure,Structure,K360S,,False
+Homo sapiens,IGHG1,,K360T,,,unknown_effects,,K360T,,,Unknown,Unknown,K360T,,False
+Homo sapiens,IGHG1,,K370E,,,fc_variants,,K370E,,,Structure,Structure,K370E,,False
+Homo sapiens,IGHG2,,K370E,,,fc_variants,,K370E,,,Structure,Structure,K370E,,False
+Homo sapiens,IGHG1,,K370S,,,fc_variants,,K370S,,,Structure,Structure,K370S,,False
+Homo sapiens,IGHG1,,K392D,,,fc_variants,,K392D,,,Structure,Structure,K392D,,False
+Homo sapiens,IGHG1,,K392L,,,fc_variants,,K392L,,,Structure,Structure,K392L,,False
+Homo sapiens,IGHG1,,K409D,,,fc_variants,,K409D,,,Structure,Structure,K409D,,False
+Homo sapiens,IGHG1,,K409E,,,fc_variants,,K409E,,,Structure,Structure,K409E,,False
+Homo sapiens,IGHG2,,K409E,,,fc_variants,,K409E,,,Structure,Structure,K409E,,False
+Homo sapiens,IGHG1,,K409V,,,fc_variants,,K409V,,,Structure,Structure,K409V,,False
+Homo sapiens,IGHG1,,K409W,,,fc_variants,,K409W,,,Structure,Structure,K409W,,False
+Homo sapiens,IGHG1,,K447del,,,fc_variants,,K447del,,,Structure,Structure,K447-,,False
+Homo sapiens,IGHG4,,K447del,,,fc_variants,,K447del,,,Structure,Structure,K447-,,False
+Homo sapiens,IGHG1,,L128E,,,fc_variants,,L128E,,,Structure,Structure,L128E,,False
+Homo sapiens,IGHG1,,L234A,,,fc_variants,,L234A,,,Silence,Silence,L234A,,False
+Homo sapiens,IGHG1,,L234F,,,fc_variants,,L234F,,,Silence,Silence,L234F,,False
+Homo sapiens,IGHG1,,L234P,,,fc_variants,,L234P,,,Silence,Silence,L234P,,False
+Homo sapiens,IGHG4,,L234P,,,fc_variants,,L234P,,,Silence,Silence,L234P,,False
+Homo sapiens,IGHG1,,L234S,,,fc_variants,,L234S,,,Silence,Silence,L234S,,False
+Homo sapiens,IGHG1,,L234Y,,,fc_variants,,L234Y,,,Silence,Silence,L234Y,,False
+Homo sapiens,IGHG1,,L234del,,,fc_variants,,L234del,,,Silence,Silence,L234-,,False
+Homo sapiens,IGHG1,,L235G,,,fc_variants,,L235G,,,Silence,Silence,L235G,,False
+Homo sapiens,IGHG1,,L235Q,,,fc_variants,,L235Q,,,Silence,Silence,L235Q,,False
+Homo sapiens,IGHG1,,L235R,,,fc_variants,,L235R,,,Silence,Silence,L235R,,False
+Homo sapiens,IGHG1,,L235T,,,fc_variants,,L235T,,,Silence,Silence,L235T,,False
+Homo sapiens,IGHG1,,L235V,,,fc_variants,,L235V,,,Silence,Silence,L235V,,False
+Homo sapiens,IGHG4,,L235V,,,fc_variants,,L235V,,,Silence,Silence,L235V,,False
+Homo sapiens,IGHG1,,L235W,,,fc_variants,,L235W,,,Silence,Silence,L235W,,False
+Homo sapiens,IGHG1,,L235del,,,fc_variants,,L235del,,,Silence,Silence,L235-,,False
+Homo sapiens,IGHG1,,L328F,,,fc_variants,,L328F,,,Silence,Silence,L328F,,False
+Homo sapiens,IGHG1,,L351D,,,fc_variants,,L351D,,,Structure,Structure,L351D,,False
+Homo sapiens,IGHG1,,L351E,,,fc_variants,,L351E,,,Structure,Structure,L351E,,False
+Homo sapiens,IGHG1,,L351K,,,fc_variants,,L351K,,,Structure,Structure,L351K,,False
+Homo sapiens,IGHG1,,L351Y,,,fc_variants,,L351Y,,,Structure,Structure,L351Y,,False
+Homo sapiens,IGHG1,,L368A,,,fc_variants,,L368A,,,Structure,Structure,L368A,,False
+Homo sapiens,IGHG4,,L368A,,,fc_variants,,L368A,,,Structure,Structure,L368A,,False
+Homo sapiens,IGHG1,,L368D,,,fc_variants,,L368D,,,Structure,Structure,L368D,,False
+Homo sapiens,IGHG1,,L368E,,,fc_variants,,L368E,,,Structure,Structure,L368E,,False
+Homo sapiens,IGHG2,,L368E,,,fc_variants,,L368E,,,Structure,Structure,L368E,,False
+Homo sapiens,IGHG1,,L368M,,,fc_variants,,L368M,,,Structure,Structure,L368M,,False
+Homo sapiens,IGHG1,,L368R,,,fc_variants,,L368R,,,Structure,Structure,L368R,,False
+Homo sapiens,IGHG1,,L432C,,,fc_variants,,L432C,,,Halflife,Halflife,L432C,,False
+Felis catus,IGHG1,,M234A,,,unknown_effects,,M234A,,,Unknown,Unknown,M234A,,False
+Homo sapiens,IGHG1,,M252Y,,,fc_variants,,M252Y,,,Halflife,Halflife,M252Y,,False
+Homo sapiens,IGHG4,,M252Y,,,fc_variants,,M252Y,,,Halflife,Halflife,M252Y,,False
+Homo sapiens,IGHG1,,N203D,,,unknown_effects,,N203D,,,Unknown,Unknown,N203D,,False
+Homo sapiens,IGHG1,,N208D,,,fc_variants,,N208D,,,Structure,Structure,N208D,,False
+Homo sapiens,IGHG1,,N325S,,,fc_variants,,N325S,,,Silence,Silence,N325S,,False
+Mus musculus,IGHG1,,N371D,,,unknown_effects,,N371D,,,Unknown,Unknown,N371D,,False
+Homo sapiens,IGHG1,,N384D,,,fc_variants,,N384D,,,Structure,Structure,N384D,,False
+Homo sapiens,IGHG1,,N384Y,,,fc_variants,,N384Y,,,Other,Other,N384Y,,False
+Homo sapiens,IGHG1,,N389A,,,fc_variants,,N389A,,,Other,Other,N389A,,False
+Homo sapiens,IGHG1,,N389W,,,unknown_effects,,N389W,,,Unknown,Unknown,N389W,,False
+Mus musculus,IGHG1,,N399D,,,unknown_effects,,N399D,,,Unknown,Unknown,N399D,,False
+Mus musculus,IGHG1,,N401D,,,unknown_effects,,N401D,,,Unknown,Unknown,N401D,,False
+Homo sapiens,IGHG1,,N421D,,,fc_variants,,N421D,,,Structure,Structure,N421D,,False
+Homo sapiens,IGHG1,,N421F,,,fc_variants,,N421F,,,Other,Other,N421F,,False
+Homo sapiens,IGHG1,,N434F,,,fc_variants,,N434F,,,Halflife,Halflife,N434F,,False
+Homo sapiens,IGHG1,,N434S,,,fc_variants,,N434S,,,Halflife,Halflife,N434S,,False
+Homo sapiens,IGHG4,,N434S,,,fc_variants,,N434S,,,Halflife,Halflife,N434S,,False
+Homo sapiens,IGHG1,,N434Y,,,fc_variants,,N434Y,,,Halflife,Halflife,N434Y,,False
+Mus musculus,IGHG1,,P192T,,,unknown_effects,,P192T,,,Unknown,Unknown,P192T,,False
+Homo sapiens,IGLC3,,P211L,,,unknown_effects,,P211L,,,Unknown,Unknown,P211L,,False
+Homo sapiens,IGHG2,,P228E,,,fc_variants,,P228E,,,Structure,Structure,P228E,,False
+Homo sapiens,IGHG1,,P228L,,,unknown_effects,,P228L,,,Unknown,Unknown,P228L,,False
+Homo sapiens,IGHG2,,P228R,,,fc_variants,,P228R,,,Structure,Structure,P228R,,False
+Homo sapiens,IGHG2,,P234L,,,fc_variants,,P234L,,,Effector,Effector,P234L,,False
+Homo sapiens,IGHG1,,P247I,,,fc_variants,,P247I,,,Effector,Effector,P247I,,False
+Homo sapiens,IGHG1,,P271G,,,fc_variants,,P271G,,,Silence,Silence,P271G,,False
+Homo sapiens,IGHG1,,P329S,,,fc_variants,,P329S,,,Silence,Silence,P329S,,False
+Homo sapiens,IGHG1,,P343R,,,fc_variants,,P343R,,,Other,Other,P343R,,False
+Homo sapiens,IGHG1,,P387E,,,fc_variants,,P387E,,,Other,Other,P387E,,False
+Homo sapiens,IGHG1,,P387T,,,unknown_effects,,P387T,,,Unknown,Unknown,P387T,,False
+Homo sapiens,IGHG1,,P396L,,,fc_variants,,P396L,,,Effector,Effector,P396L,,False
+Homo sapiens,IGHG1,,Q124K,,,fc_variants,,Q124K,,,Structure,Structure,Q124K,,False
+Homo sapiens,IGHG1,,Q160C,,,fc_variants,,Q160C,,,Structure,Structure,Q160C,,False
+Homo sapiens,IGHG4,,Q160C,,,fc_variants,,Q160C,,,Structure,Structure,Q160C,,False
+Homo sapiens,IGHG1,,Q175E,,,fc_variants,,Q175E,,,Structure,Structure,Q175E,,False
+Homo sapiens,IGHG4,,Q175E,,,unknown_effects,,Q175E,,,Structure,Structure,Q175E,,False
+Homo sapiens,IGHG1,,Q178E,,,fc_variants,,Q178E,,,Structure,Structure,Q178E,,False
+Felis catus,IGKC,,Q215del,,,unknown_effects,,Q215del,,,Unknown,Unknown,Q215-,,False
+Homo sapiens,IGHG1,,Q295E,,,fc_variants,,Q295E,,,Structure,Structure,Q295E,,False
+Homo sapiens,IGHG1,,Q311R,,,fc_variants,,Q311R,,,Other,Other,Q311R,,False
+Homo sapiens,IGHG1,,Q347M,,,fc_variants,,Q347M,,,Structure,Structure,Q347M,,False
+Homo sapiens,IGHG1,,Q347R,,,fc_variants,,Q347R,,,Structure,Structure,Q347R,,False
+Homo sapiens,IGHG1,,Q386T,,,fc_variants,,Q386T,,,Other,Other,Q386T,,False
+Homo sapiens,IGHG1,,Q386del,,,unknown_effects,,Q386del,,,Unknown,Unknown,Q386-,,False
+Homo sapiens,IGHG1,,Q418E,,,fc_variants,,Q418E,,,Structure,Structure,Q418E,,False
+Homo sapiens,IGHG1,,Q419E,,,unknown_effects,,Q419E,,,Unknown,Unknown,Q419E,,False
+Homo sapiens,IGHG1,,Q438R,,,fc_variants,,Q438R,,,Other,Other,Q438R,,False
+Homo sapiens,IGHG4,,Q438R,,,fc_variants,,Q438R,,,Other,Other,Q438R,,False
+Homo sapiens,IGHG1,,Q44E,,,fc_variants,,Q44E,,,Structure,Structure,Q44E,,False
+Homo sapiens,IGHG1,,Q44K,,,fc_variants,,Q44K,,,Structure,Structure,Q44K,,False
+Homo sapiens,IGHG1,,R108A,,,fc_variants,,R108A,,,Structure,Structure,R108A,,False
+Homo sapiens,IGHG2,,R133K,,,unknown_effects,,R133K,,,Unknown,Unknown,R133K,,False
+Mus musculus,IGHG1,,R193W,,,unknown_effects,,R193W,,,Unknown,Unknown,R193W,,False
+Homo sapiens,IGKC,,R211del,,,unknown_effects,,R211del,,,Unknown,Unknown,R211-,,False
+Homo sapiens,IGHG1,,R214T,,,unknown_effects,,R214T,,,Unknown,Unknown,R214T,,False
+Felis catus,IGKC,,R216del,,,unknown_effects,,R216del,,,Unknown,Unknown,R216-,,False
+Homo sapiens,IGHG1,,R292C,,,fc_variants,,R292C,,,Structure,Structure,R292C,,False
+Homo sapiens,IGHG1,,R292P,,,fc_variants,,R292P,,,Effector,Effector,R292P,,False
+Homo sapiens,IGHG1,,R355Q,,,unknown_effects,,R355Q,,,Unknown,Unknown,R355Q,,False
+Homo sapiens,IGHG1,,R416E,,,fc_variants,,R416E,,,Other,Other,R416E,,False
+Homo sapiens,IGHG1,,S114E,,,fc_variants,,S114E,,,Structure,Structure,S114E,,False
+Homo sapiens,IGHG1,,S114K,,,fc_variants,,S114K,,,Structure,Structure,S114K,,False
+Homo sapiens,IGHG1,,S121C,,,fc_variants,,S121C,,,Structure,Structure,S121C,,False
+Homo sapiens,IGKC,,S131E,,,unknown_effects,,S131E,,,Unknown,Unknown,S131E,,False
+Homo sapiens,IGHG1,,S131R,,,fc_variants,,S131R,,,Structure,Structure,S131R,,False
+Homo sapiens,C-LAMBDA-2,,S152G,,,fc_variants,,S152G,,,Structure,Structure,S152G,,False
+Homo sapiens,IGHG1,,S162C,,,fc_variants,,S162C,,,Structure,Structure,S162C,,False
+Homo sapiens,IGHG1,,S176E,,,fc_variants,,S176E,,,Structure,Structure,S176E,,False
+Homo sapiens,IGHG1,,S176R,,,fc_variants,,S176R,,,Structure,Structure,S176R,,False
+Homo sapiens,IGLC2,,S180K,,,unknown_effects,,S180K,,,Unknown,Unknown,S180K,,False
+Homo sapiens,IGHG1,,S183E,,,fc_variants,,S183E,,,Structure,Structure,S183E,,False
+Homo sapiens,IGLC3,,S215del,,,unknown_effects,,S215del,,,Unknown,Unknown,S215-,,False
+Homo sapiens,IGHG1,,S239A,,,fc_variants,,S239A,,,Silence,Silence,S239A,,False
+Homo sapiens,IGHG1,,S239D,,,fc_variants,,S239D,,,Effector,Effector,S239D,,False
+Homo sapiens,IGHG2,,S239D,,,fc_variants,,S239D,,,Effector,Effector,S239D,,False
+Homo sapiens,IGHG1,,S239K,,,fc_variants,,S239K,,,Silence,Silence,S239K,,False
+Homo sapiens,IGHG1,,S239M,,,fc_variants,,S239M,,,Effector,Effector,S239M,,False
+Homo sapiens,IGHG1,,S254T,,,fc_variants,,S254T,,,Halflife,Halflife,S254T,,False
+Homo sapiens,IGHG4,,S254T,,,fc_variants,,S254T,,,Halflife,Halflife,S254T,,False
+Homo sapiens,IGHG1,,S298A,,,fc_variants,,S298A,,,Effector,Effector,S298A,,False
+Mus musculus,IGHG1,,S302del,,,unknown_effects,,S302del,,,Unknown,Unknown,S302-,,False
+Homo sapiens,IGHG1,,S324T,,,fc_variants,,S324T,,,Effector,Effector,S324T,,False
+Homo sapiens,IGHG1,,S354I,,,fc_variants,,S354I,,,Structure,Structure,S354I,,False
+Homo sapiens,IGHG1,,S364K,,,fc_variants,,S364K,,,Structure,Structure,S364K,,False
+Homo sapiens,IGHG1,,S415E,,,fc_variants,,S415E,,,Other,Other,S415E,,False
+Homo sapiens,IGHG1,,S440E,,,fc_variants,,S440E,,,Other,Other,S440E,,False
+Homo sapiens,IGHG4,,S440E,,,fc_variants,,S440E,,,Other,Other,S440E,,False
+Homo sapiens,IGHG1,,S440Y,,,fc_variants,,S440Y,,,"Effector,Structure",Multiple,S440Y,,False
+Homo sapiens,IGLC2,,T131K,,,unknown_effects,,T131K,,,Unknown,Unknown,T131K,,False
+Homo sapiens,C-LAMBDA-2,,T163K,,,fc_variants,,T163K,,,Structure,Structure,T163K,,False
+Homo sapiens,IGKC,,T180E,,,unknown_effects,,T180E,,,Unknown,Unknown,T180E,,False
+Homo sapiens,IGHG1,,T223C,,,unknown_effects,,T223C,,,Unknown,Unknown,T223C,,False
+Homo sapiens,IGHG1,,T223del,,,fc_variants,,T223del,,,Structure,Structure,T223-,,False
+Homo sapiens,IGHG1,,T225del,,,fc_variants,,T225del,,,Structure,Structure,T225-,,False
+Homo sapiens,IGHG1,,T250V,,,fc_variants,,T250V,,,Other,Other,T250V,,False
+Homo sapiens,IGHG1,,T256E,,,fc_variants,,T256E,,,Halflife,Halflife,T256E,,False
+Homo sapiens,IGHG4,,T256E,,,fc_variants,,T256E,,,Halflife,Halflife,T256E,,False
+Homo sapiens,IGHG1,,T307P,,,fc_variants,,T307P,,,Other,Other,T307P,,False
+Homo sapiens,IGHG2,,T339A,,,fc_variants,,T339A,,,Silence,Silence,T339A,,False
+Homo sapiens,IGHG1,,T350D,,,fc_variants,,T350D,,,Structure,Structure,T350D,,False
+Homo sapiens,IGHG1,,T350V,,,fc_variants,,T350V,,,Structure,Structure,T350V,,False
+Homo sapiens,IGHG1,,T359K,,,unknown_effects,,T359K,,,Unknown,Unknown,T359K,,False
+Homo sapiens,IGHG1,,T366K,,,fc_variants,,T366K,,,Structure,Structure,T366K,,False
+Homo sapiens,IGHG1,,T366L,,,fc_variants,,T366L,,,Structure,Structure,T366L,,False
+Homo sapiens,IGHG1,,T366S,,,fc_variants,,T366S,,,Structure,Structure,T366S,,False
+Homo sapiens,IGHG4,,T366S,,,fc_variants,,T366S,,,Structure,Structure,T366S,,False
+Homo sapiens,IGHG1,,T393A,,,unknown_effects,,T393A,,,Unknown,Unknown,T393A,,False
+Homo sapiens,IGHG1,,T394W,,,fc_variants,,T394W,,,Structure,Structure,T394W,,False
+Homo sapiens,IGHG1,,T437C,,,fc_variants,,T437C,,,Halflife,Halflife,T437C,,False
+Homo sapiens,IGKC,,V110D,,,unknown_effects,,V110D,,,Unknown,Unknown,V110D,,False
+Homo sapiens,IGHG1,,V133E,,,fc_variants,,V133E,,,Structure,Structure,V133E,,False
+Homo sapiens,IGHG1,,V133G,,,fc_variants,,V133G,,,Structure,Structure,V133G,,False
+Homo sapiens,IGHG1,,V133K,,,fc_variants,,V133K,,,Structure,Structure,V133K,,False
+Homo sapiens,IGHG1,,V173C,,,fc_variants,,V173C,,,Structure,Structure,V173C,,False
+Homo sapiens,IGHG4,,V173C,,,fc_variants,,V173C,,,Structure,Structure,V173C,,False
+Homo sapiens,IGHG2,,V235A,,,fc_variants,,V235A,,,Silence,Silence,V235A,,False
+Homo sapiens,IGHG2,,V235L,,,fc_variants,,V235L,,,Effector,Effector,V235L,,False
+Homo sapiens,IGHG1,,V264I,,,fc_variants,,V264I,,,Silence,Silence,V264I,,False
+Homo sapiens,IGHG1,,V302C,,,fc_variants,,V302C,,,Structure,Structure,V302C,,False
+Homo sapiens,IGHG1,,V305I,,,fc_variants,,V305I,,,Effector,Effector,V305I,,False
+Homo sapiens,IGHG4,,V308P,,,fc_variants,,V308P,,,Halflife,Halflife,V308P,,False
+Homo sapiens,IGHG2,,V309L,,,fc_variants,,V309L,,,Silence,Silence,V309L,,False
+Homo sapiens,IGHG1,,Y180F (pAMF),,,fc_variants,,Y180F (pAMF),,,Structure,Structure,Y180F (pAMF),noncanonical_chemistry,False
+Homo sapiens,IGHG1,,Y300L,,,fc_variants,,Y300L,,,Effector,Effector,Y300L,,False
+Homo sapiens,IGHG1,,Y349F,,,fc_variants,,Y349F,,,Structure,Structure,Y349F,,False
+Homo sapiens,IGHG1,,Y407L,,,fc_variants,,Y407L,,,Structure,Structure,Y407L,,False
+Homo sapiens,IGHG1,,Y407V,,,fc_variants,,Y407V,,,Structure,Structure,Y407V,,False
+Homo sapiens,IGHG4,,Y407V,,,fc_variants,,Y407V,,,Structure,Structure,Y407V,,False
+Homo sapiens,IGHG1,,Y436F,,,fc_variants,,Y436F,,,Other,Other,Y436F,,False
+Homo sapiens,IGHG4,,Y436F,,,fc_variants,,Y436F,,,Other,Other,Y436F,,False
+Homo sapiens,IGHG1,,Y436H,,,fc_variants,,Y436H,,,Halflife,Halflife,Y436H,,False
+Homo sapiens,IGHG1,,Y436L,,,fc_variants,,Y436L,,,Halflife,Halflife,Y436L,,False
+Homo sapiens,IGHG1,,Y436T,,,fc_variants,,Y436T,,,Halflife,Halflife,Y436T,,False
+Felis catus,IGHG1,Felcat unk-1,M234A/L235A/G237A,uknown propert,uknown propert,unknown_effects,,M234A/L235A/G237A,,,Unknown,Unknown,M234A/L235A/G237A,,False
+Felis catus,IGKC,Felcat unk-2,N210Q/Q215del/R216del/E217del,uknown propert,uknown propert,unknown_effects,,N210Q/Q215del/R216del/E217del,,,Unknown,Unknown,N210Q/Q215-/R216-/E217-,,False
+Homo sapiens,C-LAMBDA-2,"10-LC2v1 C-LAMBDA-2 G45, K82",S152G/T163K,Structure,Improve domain stability,fc_variants,[106],S152G/T163K,106,"Patent WO 2013/152860-A3 (Ap. 11, 2012)",Structure,Structure,S152G/T163K,,False
+Homo sapiens,IGHD,unk-17,K192G/E193S,uknown propert,uknown propert,unknown_effects,,K192G/E193S,,,Unknown,Unknown,K192G/E193S,,False
+Homo sapiens,IGHG1,"6-G1v60-1 CH2 G110, S115, S116",A327G/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[127],A327G/A330S/P331S,127,Hale G. Immunol Rev. 328(1):422-437 (2024). PMID: 39158044 (2024),Silence,Silence,A327G/A330S/P331S,,False
+Homo sapiens,IGHG1,"6-G1v60 CH2 S115, S116",A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[41],A330S/P331S,41,Wilkinson I. et al. (2021),Silence,Silence,A330S/P331S,,False
+Homo sapiens,IGHG1,"15-G1v70 h S5, S11, S14",C220S/C226S/C229S,Structure,Suppression of inter H-H disulfide bridge,fc_variants,[45],C220S/C226S/C229S,45,"US patent 2020/0148779-A1 (May 14, 2020)",Structure,Structure,C220S/C226S/C229S,,False
+Homo sapiens,IGHG1,"14-G1v99-1 h E6, CH3 E24",D221E/L368E,Structure,Heteropairing H-H enhancement,fc_variants,[119],D221E/L368E,119,"Patent WO 2018/220584-A1 (Dec. 6, 2018)",Structure,Structure,D221E/L368E,,False
+Homo sapiens,IGHG1,"14-G1v99-2 h R6, CH3 R88",D221R/K409R,Structure,Heteropairing H-H enhancement,fc_variants,[119],D221R/K409R,119,"Patent WO 2018/220584-A1 (Dec. 6, 2018)",Structure,Structure,D221R/K409R,,False
+Homo sapiens,IGHG1,"6-G1v4-66 CH2 A27, A114",D265A/P329A,Effector,ADCC and CDC reduction,fc_variants,[41],D265A/P329A,41,Wilkinson I. et al. (2021),Silence,Silence,D265A/P329A,,False
+Homo sapiens,IGHG1,"1-G1v66-80 CH2 A27, G116",D265A/P331G,Effector,ADCC reduction,fc_variants,[127],D265A/P331G,127,Hale G. Immunol Rev. 328(1):422-437 (2024). PMID: 39158044 (2024),Silence,Silence,D265A/P331G,,False
+Homo sapiens,IGHG1,"1-G1v79 CH2 G27, Q110, S115",D265G/A327Q/A330S,Effector,ADCC reduction,fc_variants,[113],D265G/A327Q/A330S,113,Lefranc MP (2024),Silence,Silence,D265G/A327Q/A330S,,False
+Homo sapiens,IGHG1,"2-G1v11 CH2 E34, D109, M115, E119",D270E/K326D/A330M/K334E,Effector,ADCC enhancement,fc_variants,[7],D270E/K326D/A330M/K334E,7,Mimoto F. et al. (2013),Effector,Effector,D270E/K326D/A330M/K334E,,False
+Homo sapiens,IGHG1,"14-G1v73-6 CH3 K12, K13, K84.2",D356K/E357K/D399K,Structure,Heteropairing H-H enhancement,fc_variants,[139],D356K/E357K/D399K,139,Klein C. et al. MAbs. 4(6):653-63 (2012). PMID: 22925968 (2012),Structure,Structure,D356K/E357K/D399K,,False
+Homo sapiens,IGHG1,"18-G1v82-7 CH3 R84.2, E88",D399R/K409E,Structure,Control of bispecific H-H heteropairing,fc_variants,[104],D399R/K409E,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,D399R/K409E,,False
+Homo sapiens,IGHG1,unk-36,D401G/G402D,uknown propert,uknown propert,unknown_effects,,D401G/G402D,,,Unknown,Unknown,D401G/G402D,,False
+Homo sapiens,IGHG1,"17-KCv57 C-KAPPA R12, K13",E123R/Q124K,Structure,Heteropairing H-L enhancement,fc_variants,[75],E123R/Q124K,75,Lefranc M. P. (2022),Structure,Structure,E123R/Q124K,,False
+Homo sapiens,IGHG1,"6,7-G1v63-3 CH2 D1.4, D1, D2, D30, G35, R115",E233D/G237D/P238D/H268D/P271G/A330R,Effector,ADCC reduction B cell inhibition,fc_variants,[113],E233D/G237D/P238D/H268D/P271G/A330R,113,Lefranc MP (2024),Silence,Silence,E233D/G237D/P238D/H268D/P271G/A330R,,False
+Homo sapiens,IGHG1,"1-G1v1-2-3 CH2 P1.4, V1.3, A1.2",E233P/L234V/L235A,Effector,ADCC reduction,fc_variants,[52],E233P/L234V/L235A,52,Riether C. et al. (2020),Silence,Silence,E233P/L234V/L235A,,False
+Homo sapiens,IGHG1,unk-42,E233del/L234P/L235A/G236A/P329A,uknown propert,uknown propert,unknown_effects,,E233del/L234P/L235A/G236A/P329A,,,Unknown,Unknown,E233-/L234P/L235A/G236A/P329A,,False
+Homo sapiens,IGHG1,"1-G1v50 CH2 delE1.4, P1.3, V1.2, A1.1",E233del/L234P/L235V/G236A,Effector,ADCC reduction,fc_variants,[75],E233del/L234P/L235V/G236A,75,Lefranc M. P. (2022),Silence,Silence,E233-/L234P/L235V/G236A,,False
+Homo sapiens,IGHG1,"1-G1v50-79 CH2 delE1.4, P1.3, V1.2, A1.1, G27, Q110, S115",E233del/L234P/L235V/G236A/D265G/A327Q/A330S,Effector,ADCC reduction,fc_variants,[113],E233del/L234P/L235V/G236A/D265G/A327Q/A330S,113,Lefranc MP (2024),Silence,Silence,E233-/L234P/L235V/G236A/D265G/A327Q/A330S,,False
+Homo sapiens,IGHG1,"6-G1v50-51 CH2 delE1.4, P1.3, V1.2, A1.1, K29",E233del/L234P/L235V/G236A/S267K,Effector,ADCC and CDC reduction,fc_variants,[65],E233del/L234P/L235V/G236A/S267K,65,Moore G. L. et al. (2019),Silence,Silence,E233-/L234P/L235V/G236A/S267K,,False
+Homo sapiens,IGHG1,"6-G1v65 CH2 delE1.4, delL1.3, delL1.2",E233del/L234del/L235del,Effector,ADCC and CDC reduction,fc_variants,[43],E233del/L234del/L235del,43,Labrijn A.F.Â et al. (2019),Silence,Silence,E233-/L234-/L235-,,False
+Homo sapiens,IGHG1,"1,5-G1v101-20 CH2 R31, A105",E269R/K322A,Effector,ADCC and CDC reduction,fc_variants,[53],E269R/K322A,53,"US patent 9,028,826-B2 (May 12, 2015)",Silence,Silence,E269R/K322A,,False
+Homo sapiens,IGHG1,"4,10,13-G1v18 CH3 R1, G109, Y120",E345R/E430G/S440Y,Effector | Structure,CDC enhancement | Hexamerisation,fc_variants,[16],E345R/E430G/S440Y,16,Diebolder C.A. et al. (2014),"Effector,Structure",Multiple,E345R/E430G/S440Y,,False
+Homo sapiens,IGHG1,"14-G1v73-2 CH3 K12, K84.2",E356K/D399K,Structure,Heteropairing H-H enhancement,fc_variants,[70],E356K/D399K,70,Gunasekaran K. et al. (2010),Structure,Structure,E356K/D399K,,False
+Homo sapiens,IGHG1,"18-G1v82-6 CH3 Q13, K20",E357Q/S364K,Structure,Control of bispecific H-H heteropairing,fc_variants,[65],E357Q/S364K,65,Moore G. L. et al. (2019),Structure,Structure,E357Q/S364K,,False
+Homo sapiens,IGHG1,"17-G1v58 CH1 C5, h V5",F126C/C220V,Structure,Heteropairing H-L enhancement,fc_variants,[75],F126C/C220V,75,Lefranc M. P. (2022),Structure,Structure,F126C/C220V,,False
+Homo sapiens,IGHG1,"11-G1v84 CH1 C81, C84",F170C/V173C,Structure,Additional inter H-L and/or inter H-H disulfide bridge,fc_variants,[104],F170C/V173C,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,F170C/V173C,,False
+Homo sapiens,IGHG1,"11-KCv37 C-KAPPA C121, S126",F209C/C214S,Structure,Remplacement of inter H-L disulfide bridge,fc_variants,[46],F209C/C214S,46,"US Patent 11,130,808-B2 (Sep 28, 2021)",Structure,Structure,F209C/C214S,,False
+Homo sapiens,IGHG1,"2-G1v9 CH2 L7, P83, L85.2, I88, CH3 L83",F243L/R292P/Y300L/V305I/P396L,Effector,ADCC enhancement,fc_variants,[6],F243L/R292P/Y300L/V305I/P396L,6,Stavenhagen J.B. et al. (2007),Effector,Effector,F243L/R292P/Y300L/V305I/P396L,,False
+Homo sapiens,IGHG1,unk-35,G137E/N203D/K/R214T/H268Q/K274Q/R355Q/Q419E,uknown propert,uknown propert,unknown_effects,,G137E/N203D/K/R214T/H268Q/K274Q/R355Q/Q419E,,,Unknown,Unknown,G137E/N203D/K/R214T/H268Q/K274Q/R355Q/Q419E,,False
+Homo sapiens,IGHG1,"3-G1v45 CH2 A1.1, L115, E117",G236A/A330L/I332E,Effector,ADCC and ADCP enhancement,fc_variants,[34],G236A/A330L/I332E,34,Weitzenfeld P. et al. (2019),Effector,Effector,G236A/A330L/I332E,,False
+Homo sapiens,IGHG1,"3-G1v12 CH2 A1.1, D3, L115, E117",G236A/S239D/A330L/I332E,Effector,ADCC and ADCP enhancement,fc_variants,[8],G236A/S239D/A330L/I332E,8,Ahmed A et al. J Struct Biol 1:78-89 (2016). PMID: 26850169 (2016),Effector,Effector,G236A/S239D/A330L/I332E,,False
+Homo sapiens,IGHG1,"3-G1v13 CH2 A1.1, D3, E117",G236A/S239D/I332E,Effector,ADCC and ADCP enhancement,fc_variants,[9],G236A/S239D/I332E,9,Richards J.O. (2008),Effector,Effector,G236A/S239D/I332E,,False
+Homo sapiens,IGHG1,"1-G1v52 CH2 R1.1, R113",G236R/L328R,Effector,ADCC reduction,fc_variants,[59],G236R/L328R,59,Liu R. et al. (2020),Silence,Silence,G236R/L328R,,False
+Homo sapiens,IGHG1,"10-G1v111 CHS delG1, delK2",G446del/K447del,Structure,C-terminal heterogeneity reduction,fc_variants,[141],G446del/K447del,141,"Patent WO 2023/164510-A1 (Aug. 31, 2023)",Structure,Structure,G446-/K447-,,False
+Homo sapiens,IGHG1,"9-G1v46 CH3 K113, F114",H433K/N434F,Half-life,Half-life increase,fc_variants,[35],H433K/N434F,35,Vaccaro C. et al. (2006),Halflife,Halflife,H433K/N434F,,False
+Homo sapiens,IGHG1,"10-G1v83 CH3 R115, F116",H435R/Y436F,Physicochemical properties,Protein A binding abrogation,fc_variants,[97],H435R/Y436F,97,Steinhardt J. et al. (2019),Other,Other,H435R/Y436F,,False
+Homo sapiens,IGHG1,"9-G1v77-1 CH2 A15.2, A93, CH3 A115",I253A/H310A/H435A,Half-life,Half-life decrease,fc_variants,[55],I253A/H310A/H435A,55,Grevys A. et al. (2015),Halflife,Halflife,I253A/H310A/H435A,,False
+Homo sapiens,IGHG1,"17-G1v57 CH1 E26, E119",K147E/K213E,Structure,Heteropairing H-L enhancement,fc_variants,[75],K147E/K213E,75,Lefranc M. P. (2022),Structure,Structure,K147E/K213E,,False
+Homo sapiens,IGHG1,"14-G1v96-1 h C7, delT8, delT10",K222C/T223del/T225del,Structure,Heteropairing H-H enhancement,fc_variants,[138],K222C/T223del/T225del,138,"Patent WO 2010/064090 (June 10, 2010)",Structure,Structure,K222C/T223-/T225-,,False
+Homo sapiens,IGHG1,unk-37,K222del/T223C/T225del,uknown propert,uknown propert,unknown_effects,[138],K222del/T223C/T225del,138,"Patent WO 2010/064090 (June 10, 2010)",Unknown,Unknown,K222-/T223C/T225-,,False
+Homo sapiens,IGHG1,"14-G1v90 CH3 E16, W88",K306E/K409W,Structure,Heteropairing H-H enhancement,fc_variants,[135],K306E/K409W,135,"Patent WO 2014/084607-A1 (Jun. 5, 2014)",Structure,Structure,K306E/K409W,,False
+Homo sapiens,IGHG1,"4-G1v16 CH2 W109, S118",K326W/E333S,Effector,CDC enhancement,fc_variants,[3],K326W/E333S,3,Idusogie E.E. et al. (2001),Effector,Effector,K326W/E333S,,False
+Homo sapiens,IGHG1,"14-G1v72-5 CH3 E26, D88, E119",K370E/K409D/K439E,Structure,Heteropairing H-H enhancement,fc_variants,[139],K370E/K409D/K439E,139,Klein C. et al. MAbs. 4(6):653-63 (2012). PMID: 22925968 (2012),Structure,Structure,K370E/K409D/K439E,,False
+Homo sapiens,IGHG1,"14-G1v72-2 CH3 D79, D88",K392D/K409D,Structure,Heteropairing H-H enhancement,fc_variants,[70],K392D/K409D,70,Gunasekaran K. et al. (2010),Structure,Structure,K392D/K409D,,False
+Homo sapiens,IGHG1,"17-G1v68-1 CH1 E7, T26, E84.2",L128E/K147T/Q175E,Structure,Heteropairing H-L enhancement,fc_variants,[76],L128E/K147T/Q175E,76,"US patent 2019/0010232-A1 (Jan. 10, 2019)",Structure,Structure,L128E/K147T/Q175E,,False
+Homo sapiens,IGHG1,"6-G1v43-1 CH2 A1.3, A1",L234A/G237A,Effector,ADCC and CDC reduction,fc_variants,[41],L234A/G237A,41,Wilkinson I. et al. (2021),Silence,Silence,L234A/G237A,,False
+Homo sapiens,IGHG1,"6-G1v14 CH2 A1.3, A1.2",L234A/L235A,Effector,ADCC and CDC reduction,fc_variants,[10],L234A/L235A,10,Xu D. et al. (2000),Silence,Silence,L234A/L235A,,False
+Homo sapiens,IGHG1,"6-G1v14-67 CH2 A1.3, A1.2, S27",L234A/L235A/D265S,Effector,ADCC and CDC reduction,fc_variants,[14],L234A/L235A/D265S,14,Edavettal (2022),Silence,Silence,L234A/L235A/D265S,,False
+Homo sapiens,IGHG1,"6-G1v14-1 CH2 A1.3, A1.2, A1",L234A/L235A/G237A,Effector,ADCC and CDC reduction,fc_variants,[11],L234A/L235A/G237A,11,Hezareh M et al. J Virol (2001),Silence,Silence,L234A/L235A/G237A,,False
+Homo sapiens,IGHG1,"6-G1v14-1-20 CH2 A1.3, A1.2, A1, A105",L234A/L235A/G237A/K322A,Effector,ADCC and CDC reduction,fc_variants,[58],L234A/L235A/G237A/K322A,58,"US patent 10,654,916-B2 (May 19, 2020)",Silence,Silence,L234A/L235A/G237A/K322A,,False
+Homo sapiens,IGHG1,"6-G1v97 CH2 A1.3, A1.2, A1, S2, A30, S115, S116",L234A/L235A/G237A/P238S/H268A/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[113],L234A/L235A/G237A/P238S/H268A/A330S/P331S,113,Lefranc MP (2024),Silence,Silence,L234A/L235A/G237A/P238S/H268A/A330S/P331S,,False
+Homo sapiens,IGHG1,"1,4-G1v5-2 CH2 A1.3, A1.2, A109, S118",L234A/L235A/K326A/E333S,Effector,ADCC reduction CDC enhancement,fc_variants,[113],L234A/L235A/K326A/E333S,113,Lefranc MP (2024),Effector,Effector,L234A/L235A/K326A/E333S,,False
+Homo sapiens,IGHG1,"6-G1v14-48 CH2 A1.3, A1.2, R113",L234A/L235A/L328R,Effector,ADCC and CDC reduction,fc_variants,[75],L234A/L235A/L328R,75,Lefranc M. P. (2022),Silence,Silence,L234A/L235A/L328R,,False
+Homo sapiens,IGHG1,"6-G1v14-4 CH2 A1.3, A1.2, A114",L234A/L235A/P329A,Effector,ADCC and CDC reduction,fc_variants,[12],L234A/L235A/P329A,12,Schlothauer T. et al. Protein Eng Des Sel (2016),Silence,Silence,L234A/L235A/P329A,,False
+Homo sapiens,IGHG1,"6-G1v14-49 CH2 A1.3, A1.2, G114",L234A/L235A/P329G,Effector,ADCC and CDC reduction,fc_variants,[13],L234A/L235A/P329G,13,Lo (2017),Silence,Silence,L234A/L235A/P329G,,False
+Homo sapiens,IGHG1,"6-G1v14-2 CH2 A1.3, A1.2, S114",L234A/L235A/P329S,Effector,ADCC and CDC reduction,fc_variants,[147],L234A/L235A/P329S,147,Leoh L. S. et al. J Immunol. 200(10):3485-94 (2018). PMID: 29654211 (2018),Silence,Silence,L234A/L235A/P329S,,False
+Homo sapiens,IGHG1,"6-G1v40 CH2 A1.3, A1.2, S116",L234A/L235A/P331S,Effector,ADCC and CDC reduction,fc_variants,[31],L234A/L235A/P331S,31,Leoh L. S. et al. (2015),Silence,Silence,L234A/L235A/P331S,,False
+Homo sapiens,IGHG1,"6-G1v43-2 CH2 A1.3, E1.2",L234A/L235E,Effector,ADCC and CDC reduction,fc_variants,[72],L234A/L235E,72,"Patent WO 2023/218100-A1 (Nov. 16, 2023)",Silence,Silence,L234A/L235E,,False
+Homo sapiens,IGHG1,"6-G1v43 CH2 A1.3, E1.2, A1",L234A/L235E/G237A,Effector,ADCC and CDC reduction,fc_variants,[11],L234A/L235E/G237A,11,Hezareh M et al. J Virol (2001),Silence,Silence,L234A/L235E/G237A,,False
+Homo sapiens,IGHG1,"6-G1v43-60 CH2 A1.3, E1.2, A1, S115, S116",L234A/L235E/G237A/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[32],L234A/L235E/G237A/A330S/P331S,32,Li Y et al. (2018),Silence,Silence,L234A/L235E/G237A/A330S/P331S,,False
+Homo sapiens,IGHG1,"6-G1v53-1 CH2 A1.3, Q1.2, Q105",L234A/L235Q/K322Q,Effector,ADCC and CDC reduction,fc_variants,[57],L234A/L235Q/K322Q,57,Alvarado D. et al. (2022),Silence,Silence,L234A/L235Q/K322Q,,False
+Homo sapiens,IGHG1,"6-G1v41 CH2 F1.3, E1.2",L234F/L235E,Effector,ADCC and CDC reduction,fc_variants,[75],L234F/L235E,75,Lefranc M. P. (2022),Silence,Silence,L234F/L235E,,False
+Homo sapiens,IGHG1,"6-G1v41-66 CH2 F1.3, E1.2, A27",L234F/L235E/D265A,Effector,ADCC and CDC reduction,fc_variants,[59],L234F/L235E/D265A,59,Liu R. et al. (2020),Silence,Silence,L234F/L235E/D265A,,False
+Homo sapiens,IGHG1,"6-G1v39 CH2 F1.3, E1.2, S116",L234F/L235E/P331S,Effector,ADCC and CDC reduction,fc_variants,[96],L234F/L235E/P331S,96,Oganesyan V. et al. 64:700-4 (2008). PMID: 18560159 (2008),Silence,Silence,L234F/L235E/P331S,,False
+Homo sapiens,IGHG1,"6-G1v53 CH2 F1.3, Q1.2, Q105",L234F/L235Q/K322Q,Effector,ADCC and CDC reduction,fc_variants,[38],L234F/L235Q/K322Q,38,Borrok M.J. et al. (2017),Silence,Silence,L234F/L235Q/K322Q,,False
+Homo sapiens,IGHG1,"6-G1v39-1 CH2 F1.3, A3",L234F/S239A,Effector,ADCC and CDC reduction,fc_variants,[143],L234F/S239A,143,"Patent WO 2015/157592-A1 (Oct. 15, 2015)",Silence,Silence,L234F/S239A,,False
+Homo sapiens,IGHG1,"6-G1v59 CH2 S1.3, T1.2, R1.1",L234S/L235T/G236R,Effector,ADCC and CDC reduction,fc_variants,[41],L234S/L235T/G236R,41,Wilkinson I. et al. (2021),Silence,Silence,L234S/L235T/G236R,,False
+Homo sapiens,IGHG1,"2-G1v10 CH2 Y1.3, Q1.2, W1.1, M3, D30, E34, A85.4",L234Y/L235Q/G236W/S239M/H268D/D270E/S298A,Effector,ADCC enhancement,fc_variants,[7],L234Y/L235Q/G236W/S239M/H268D/D270E/S298A,7,Mimoto F. et al. (2013),Effector,Effector,L234Y/L235Q/G236W/S239M/H268D/D270E/S298A,,False
+Homo sapiens,IGHG1,"7-G1v86 CH2 Y1.3, D2, I26, K115",L234Y/P238D/V264I/A330K,Effector,ADCC reduction B cell inhibition,fc_variants,[113],L234Y/P238D/V264I/A330K,113,Lefranc MP (2024),Silence,Silence,L234Y/P238D/V264I/A330K,,False
+Homo sapiens,IGHG1,"6-G1v3-1 CH2 A1.2, A1",L235A/G237A,Effector,ADCC and CDC reduction,fc_variants,[61],L235A/G237A,61,"US patent 2018/237341 (Dec. 27, 2018)",Silence,Silence,L235A/G237A,,False
+Homo sapiens,IGHG1,"6-G1v59-1 CH2 G1.2, R1.1",L235G/G236R,Effector,ADCC and CDC reduction,fc_variants,[62],L235G/G236R,62,"US patent 10,358,492 (Sep. 27, 2013)",Silence,Silence,L235G/G236R,,False
+Homo sapiens,IGHG1,"6-G1v59-2 CH2 R1.2, R1.1, K3",L235R/G236R/S239K,Effector,ADCC and CDC reduction,fc_variants,[67],L235R/G236R/S239K,67,Kaplon H. et al. (2023),Silence,Silence,L235R/G236R/S239K,,False
+Homo sapiens,IGHG1,"2-G1v9-1 CH2 V1.2, L7, P83, L85.2, CH3 L83",L235V/F243L/R292P/Y300L/P396L,Effector,ADCC enhancement,fc_variants,[63],L235V/F243L/R292P/Y300L/P396L,63,Saxena A. et al. (2016),Effector,Effector,L235V/F243L/R292P/Y300L/P396L,,False
+Homo sapiens,IGHG1,"7-G1v85 CH2 W1.2, N1.1, D30, K115",L235W/G236N/H268D/A330K,Effector,B cell inhibition,fc_variants,[113],L235W/G236N/H268D/A330K,113,Lefranc MP (2024),Silence,Silence,L235W/G236N/H268D/A330K,,False
+Homo sapiens,IGHG1,"14-G1v72 CH3 D7, E24",L351D/L368E,Structure,Heteropairing H-H enhancement,fc_variants,[66],L351D/L368E,66,De Nardis C. et al. (2017),Structure,Structure,L351D/L368E,,False
+Homo sapiens,IGHG1,"14-G1v72-1 CH3 E7, L86, V88",L351E/Y407L/K409V,Structure,Heteropairing H-H enhancement,fc_variants,[68],L351E/Y407L/K409V,68,"Patent WO 2018/090950 (May 24, 2018)",Structure,Structure,L351E/Y407L/K409V,,False
+Homo sapiens,IGHG1,"14-G1v73 CH3 K7, K22",L351K/T366K,Structure,Heteropairing H-H enhancement,fc_variants,[66],L351K/T366K,66,De Nardis C. et al. (2017),Structure,Structure,L351K/T366K,,False
+Homo sapiens,IGHG1,"18-G1v82-5 CH3 D24, S26",L368D/K370S,Structure,Control of bispecific H-H heteropairing,fc_variants,[65],L368D/K370S,65,Moore G. L. et al. (2019),Structure,Structure,L368D/K370S,,False
+Homo sapiens,IGHG1,"14-G1v73-5 CH3 R24, K84.2",L368R/D399K,Structure,Heteropairing H-H enhancement,fc_variants,[146],L368R/D399K,146,Liu R. et al. Exp Hematol Oncol. 14(1):136 (2025). PMID: 41275209 (2025),Structure,Structure,L368R/D399K,,False
+Homo sapiens,IGHG1,"9-G1v78-4 CH3 C112, S113, Y114, L116, C117",L432C/H433S/N434Y/Y436L/T437C,Half-life,Half-life increase,fc_variants,[144],L432C/H433S/N434Y/Y436L/T437C,144,Tkaczyk C. et al. Mol Ther. 32(8):2505-18 (2024). PMID: 38822525 (2024),Halflife,Halflife,L432C/H433S/N434Y/Y436L/T437C,,False
+Homo sapiens,IGHG1,"9-G1v21 CH2 Y15.1, T16, E18",M252Y/S254T/T256E,Half-life,Half-life increase,fc_variants,[17],M252Y/S254T/T256E,17,Dall'Acqua (2006),Halflife,Halflife,M252Y/S254T/T256E,,False
+Homo sapiens,IGHG1,"9-G1v22-1 CH2 Y15.1, T16, E18, CH3 K113, F114",M252Y/S254T/T256E/H433K/N434F,Half-life,Half-life decrease,fc_variants,[69],M252Y/S254T/T256E/H433K/N434F,69,Vaccaro C. et al. (2005),Halflife,Halflife,M252Y/S254T/T256E/H433K/N434F,,False
+Homo sapiens,IGHG1,"9-G1v22 CH2 Y15.1, T16, E18, CH3 K113, F114, H116",M252Y/S254T/T256E/H433K/N434F/Y436H,Half-life,Half-life increase,fc_variants,[18],M252Y/S254T/T256E/H433K/N434F/Y436H,18,Dall'Acqua WF et al. J Immunol (2002),Halflife,Halflife,M252Y/S254T/T256E/H433K/N434F/Y436H,,False
+Homo sapiens,IGHG1,"9-G1v78 CH3 L107, A114",M428L/N434A,Half-life,Half-life increase,fc_variants,[60],M428L/N434A,60,Fukuzawa T. et al. (2017),Halflife,Halflife,M428L/N434A,,False
+Homo sapiens,IGHG1,"9-G1v78-1 CH3 L107, A114, T116",M428L/N434A/Y436T,Half-life,Half-life increase,fc_variants,[113],M428L/N434A/Y436T,113,Lefranc MP (2024),Halflife,Halflife,M428L/N434A/Y436T,,False
+Homo sapiens,IGHG1,"9-G1v24 CH3 L107, S114",M428L/N434S,Half-life,Half-life increase,fc_variants,[20],M428L/N434S,20,Zalevsky J. et al. Nat Biotechnol (2010),Halflife,Halflife,M428L/N434S,,False
+Homo sapiens,IGHG1,"14-G1v72-3 CH1 D114, CH2 E84.2, CH3 D44, E97, D100",N208D Q295E/N384D/Q418E/N421D,Physicochemical properties,Heteropairing H-H enhancement,fc_variants,[65],N208D Q295E/N384D/Q418E/N421D,65,Moore G. L. et al. (2019),Structure,Structure,N208D Q295E/N384D/Q418E/N421D,,False
+Homo sapiens,IGHG1,"6-G1v38 CH2 S108, F113",N325S/L328F,Effector,ADCC and CDC reduction,fc_variants,[29],N325S/L328F,29,Shang L. et al. (2014),Silence,Silence,N325S/L328F,,False
+Homo sapiens,IGHG1,"10-G1v121 CH3 Y44, T45.1, E45.2, W45.3, A45.4, T92, E94, E95, F100",N384Y/Q386T/P387E/E388W/N389A/D413T/S415E/R416E/N421F,Physicochemical properties,Fc fragment engineered to bind human TfR1,fc_variants,[145],N384Y/Q386T/P387E/E388W/N389A/D413T/S415E/R416E/N421F,145,"Patent WO 2024/206161-A1 (Oct. 3, 2024)",Other,Other,N384Y/Q386T/P387E/E388W/N389A/D413T/S415E/R416E/N421F,,False
+Homo sapiens,IGHG1,unk-38,N384Y/Q386del/P387T/N389W/A389^390/D413T/S415E/R416E/N421F,uknown propert,uknown propert,unknown_effects,,N384Y/Q386del/P387T/N389W/A389^390/D413T/S415E/R416E/N421F,,,Unknown,Unknown,N384Y/Q386-/P387T/N389W/A389+/D413T/S415E/R416E/N421F,,False
+Homo sapiens,IGHG1,unk-6,P228L/T393A,uknown propert,uknown propert,unknown_effects,,P228L/T393A,,,Unknown,Unknown,P228L/T393A,,False
+Homo sapiens,IGHG1,"2-G1v103 CH2 I11, Q124",P247I/A339Q,Effector,ADCC enhancement,fc_variants,[64],P247I/A339Q,64,Chenoweth A. M. et al. (2020),Effector,Effector,P247I/A339Q,,False
+Homo sapiens,IGHG1,"11-KCv84 C-KAPPA C79, C81",Q160C/S162C,Structure,Additional inter H-L and/or inter H-H disulfide bridge,fc_variants,[104],Q160C/S162C,104,"Patent WO 2017/205014-A1 (Nov. 30, 2017)",Structure,Structure,Q160C/S162C,,False
+Homo sapiens,IGHG1,"10-G1v88-1 CH2 R94, CH3 K92",Q311R/D413K,Physicochemical properties,pI engineering,fc_variants,[113],Q311R/D413K,113,Lefranc MP (2024),Other,Other,Q311R/D413K,,False
+Homo sapiens,IGHG1,"10-G1v88 CH2 R94, CH3 R1.2",Q311R/P343R,Physicochemical properties,pI engineering,fc_variants,[113],Q311R/P343R,113,Lefranc MP (2024),Other,Other,Q311R/P343R,,False
+Homo sapiens,IGHG1,"14-G1v32-1 CH3 M3, F5, D6, W22, M24",Q347M/Y349F/T350D/T366W/L368M,Structure,Heteropairing H-H enhancement,fc_variants,[142],Q347M/Y349F/T350D/T366W/L368M,142,"Patent WO 2023/250402-A2 (Dec. 28, 2023)",Structure,Structure,Q347M/Y349F/T350D/T366W/L368M,,False
+Homo sapiens,IGHG1,"14-G1v91 CH3 R3, V84.2, T85.1",Q347R/D399V/F405T,Structure,Heteropairing H-H enhancement,fc_variants,[135],Q347R/D399V/F405T,135,"Patent WO 2014/084607-A1 (Jun. 5, 2014)",Structure,Structure,Q347R/D399V/F405T,,False
+Homo sapiens,IGHG1,"10-G1v89 CH3 R118, E120",Q438R/S440E,Physicochemical properties,Suppression of rheumatoid factor binding,fc_variants,[73],Q438R/S440E,73,Maeda A. et al. (2017),Other,Other,Q438R/S440E,,False
+Homo sapiens,IGHG1,"17-G1v92-1 VH E44, CH1 E77",Q44E/G166E,Structure,Heteropairing H-L enhancement,fc_variants,[132],Q44E/G166E,132,"Patent CA 3,204,103-A1 (Aug. 11, 2022)",Structure,Structure,Q44E/G166E,,False
+Homo sapiens,IGHG1,"17-Kv92-2 V-KAPPA E44, C-KAPPA E3",Q44E/S114E,Structure,Heteropairing H-L enhancement,fc_variants,[132],Q44E/S114E,132,"Patent CA 3,204,103-A1 (Aug. 11, 2022)",Structure,Structure,Q44E/S114E,,False
+Homo sapiens,IGHG1,"17-G1v84-1 VH E44, CH1 K86",Q44E/S183K,Structure,Heteropairing H-L enhancement,fc_variants,[130],Q44E/S183K,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,Q44E/S183K,,False
+Homo sapiens,IGHG1,"17-Kv84-2 V-KAPPA E44, C-KAPPA K22",Q44E/V133K,Structure,Heteropairing H-L enhancement,fc_variants,[130],Q44E/V133K,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,Q44E/V133K,,False
+Homo sapiens,IGHG1,"17-G1v92-2 VH K44, CH1 K77",Q44K/G166K,Structure,Heteropairing H-L enhancement,fc_variants,[132],Q44K/G166K,132,"Patent CA 3,204,103-A1 (Aug. 11, 2022)",Structure,Structure,Q44K/G166K,,False
+Homo sapiens,IGHG1,"17-Kv92-1 V-KAPPA K44, C-KAPPA K3",Q44K/S114K,Structure,Heteropairing H-L enhancement,fc_variants,[132],Q44K/S114K,132,"Patent CA 3,204,103-A1 (Aug. 11, 2022)",Structure,Structure,Q44K/S114K,,False
+Homo sapiens,IGHG1,"17-G1v84-2 VH K44, CH1 E86",Q44K/S183E,Structure,Heteropairing H-L enhancement,fc_variants,[130],Q44K/S183E,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,Q44K/S183E,,False
+Homo sapiens,IGHG1,"17-Kv84-1 V-KAPPA K44, C-KAPPA E22",Q44K/V133E,Structure,Heteropairing H-L enhancement,fc_variants,[130],Q44K/V133E,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,Q44K/V133E,,False
+Homo sapiens,IGHG1,"17-KCv96 C-KAPPA A1.4, S1.3",R108A/T109S,Structure,Heteropairing H-L enhancement,fc_variants,[117],R108A/T109S,117,"Patent WO 2016/047722-A1 (Mar, 2016)",Structure,Structure,R108A/T109S,,False
+Homo sapiens,IGHG1,"11,8-G1v54-29 CH2 C83, A84.4, C85",R292C/N297A/V302C,Structure,Additional iinter H-H disulfide bridge,fc_variants,[39],R292C/N297A/V302C,39,Estes B. et al. (2021),"Silence,Structure",Multiple,R292C/N297A/V302C,,False
+Homo sapiens,IGHG1,"11,8-G1v54-30 CH2 C83, G84.4, C85",R292C/N297G/V302C,Structure,Additional inter H-H disulfide bridge,fc_variants,[39],R292C/N297G/V302C,39,Estes B. et al. (2021),"Silence,Structure",Multiple,R292C/N297G/V302C,,False
+Homo sapiens,IGHG1,"11,8-G1v54-36 CH2 C83, Q84.4, C85",R292C/N297Q/V302C,Structure,Additional inter H-H disulfide bridge,fc_variants,[39],R292C/N297Q/V302C,39,Estes B. et al. (2021),"Silence,Structure",Multiple,R292C/N297Q/V302C,,False
+Homo sapiens,IGHG1,"11-G1v54 CH2 C83, C85",R292C/V302C,Structure,Additionalinter H-H disulfide bridge,fc_variants,[39],R292C/V302C,39,Estes B. et al. (2021),Structure,Structure,R292C/V302C,,False
+Homo sapiens,IGHG1,"17-LC2v58 C-LAMBDA2 C10, V126",S121C/C214V,Structure,Heteropairing H-L enhancement,fc_variants,[75],S121C/C214V,75,Lefranc M. P. (2022),Structure,Structure,S121C/C214V,,False
+Homo sapiens,IGHG1,"17-KCv68-1 C-KAPPA R20, G22, R86",S131R/V133G/S176R,Structure,Heteropairing H-L enhancement,fc_variants,[76],S131R/V133G/S176R,76,"US patent 2019/0010232-A1 (Jan. 10, 2019)",Structure,Structure,S131R/V133G/S176R,,False
+Homo sapiens,IGHG1,"17-LC2v69-1 C-LAMBDA2 E86, E88, A124",S176E/Q178E/T212A,Structure,Heteropairing H-L enhancement,fc_variants,[130],S176E/Q178E/T212A,130,Dillon M. et al. MAbs. 9(2):213-230 (2017). PMID: 27929752 (2017),Structure,Structure,S176E/Q178E/T212A,,False
+Homo sapiens,IGHG1,"2,5-G1v8 CH2 D3, L115, E117",S239D/A330L/I332E,Effector,ADCC enhancement CDC reduction,fc_variants,[5],S239D/A330L/I332E,5,Lazar G.A. et al. (2006),Effector,Effector,S239D/A330L/I332E,,False
+Homo sapiens,IGHG1,"2-G1v7 CH2 D3, E117",S239D/I332E,Effector,ADCC enhancement,fc_variants,[5],S239D/I332E,5,Lazar G.A. et al. (2006),Effector,Effector,S239D/I332E,,False
+Homo sapiens,IGHG1,"4-G1v17 CH2 E29, F30, T107",S267E/H2668F/S324T,Effector,CDC enhancement,fc_variants,[15],S267E/H2668F/S324T,15,Moore G.L. et al. (2010),Effector,Effector,S267E/H2668F/S324T,,False
+Homo sapiens,IGHG1,"7-G1v25 CH2 E29, F113",S267E/L328F,Effector,B cell inhibition,fc_variants,[21],S267E/L328F,21,Chu S.Y. et al. Mol Immunol 45 (2008),Silence,Silence,S267E/L328F,,False
+Homo sapiens,IGHG1,"2-G1v6 CH2 A85.4, A118, A119",S298A/E333A/K334A,Effector,ADCC enhancement,fc_variants,[4],S298A/E333A/K334A,4,Shields R.L. et al. (2001),Effector,Effector,S298A/E333A/K334A,,False
+Homo sapiens,IGHG1,"14-G1v33-1 CH3 I10, L13, S16, S22, A24, V86",S354I/E357L/K360S/T366S/L368A/Y407V,Structure,Heteropairing H-H enhancement,fc_variants,[142],S354I/E357L/K360S/T366S/L368A/Y407V,142,"Patent WO 2023/250402-A2 (Dec. 28, 2023)",Structure,Structure,S354I/E357L/K360S/T366S/L368A/Y407V,,False
+Homo sapiens,IGHG1,"9-G1v42 CH2 Q14, CH3 L107",T250Q/M428L,Half-life,Half-life increase,fc_variants,[28],T250Q/M428L,28,Hinton P.R. et al. J Immunol (2006),Halflife,Halflife,T250Q/M428L,,False
+Homo sapiens,IGHG1,"10-G1v87 CH2 V14, P90",T250V/T307P,Physicochemical properties,Thermal stability,fc_variants,[113],T250V/T307P,113,Lefranc MP (2024),Other,Other,T250V/T307P,,False
+Homo sapiens,IGHG1,"14-G1v69 CH3 V6, Y7,A85.1, V86",T350V/L351Y/F405A/Y407V,Structure,Heteropairing H-H enhancement,fc_variants,[44],T350V/L351Y/F405A/Y407V,44,Von Kreudenstein T.S. et al. (2013),Structure,Structure,T350V/L351Y/F405A/Y407V,,False
+Homo sapiens,IGHG1,"14-G1v68 CH3 V6, L22, L79, W81",T350V/T366L/K392L/T394W,Structure,Heteropairing H-H enhancement,fc_variants,[44],T350V/T366L/K392L/T394W,44,Von Kreudenstein T.S. et al. (2013),Structure,Structure,T350V/T366L/K392L/T394W,,False
+Homo sapiens,IGHG1,unk-9,T359K/K360T,uknown propert,uknown propert,unknown_effects,,T359K/K360T,,,Unknown,Unknown,T359K/K360T,,False
+Homo sapiens,IGHG1,"14-G1v73-1 CH3 L22, R84.2",T366L/D399R,Structure,Heteropairing H-H enhancement,fc_variants,[68],T366L/D399R,68,"Patent WO 2018/090950 (May 24, 2018)",Structure,Structure,T366L/D399R,,False
+Homo sapiens,IGHG1,"14-G1v33 CH3 S22, A24, V86",T366S/L368A/Y407V,Structure,Heteropairing H-H enhancement,fc_variants,[26],T366S/L368A/Y407V,26,Atwell S. (1997),Structure,Structure,T366S/L368A/Y407V,,False
+Homo sapiens,IGHG1,"16-G1v56 CH1 F(pAMF)85.2, CH3 F(pAMF)85.2",Y180F (pAMF)/F404F (pAMF),Structure,Site-specific drug attachment,fc_variants,[40],Y180F (pAMF)/F404F (pAMF),40,Li X. et al. (2023),Structure,Structure,Y180F (pAMF)/F404F (pAMF),noncanonical_chemistry,False
+Homo sapiens,IGHG2,"6-G2v60 CH2 S115, S116",A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[81],A330S/P331S,81,Armour K.L. et al. (1999),Silence,Silence,A330S/P331S,,False
+Homo sapiens,IGHG2,unk-21,C131S/R133K/H268Q,uknown propert,uknown propert,unknown_effects,,C131S/R133K/H268Q,,,Unknown,Unknown,C131S/R133K/H268Q,,False
+Homo sapiens,IGHG2,"14-G2v72-1 h E5, E10, CH3 E24",C220E/P228E/L368E,Structure,Heteropairing H-H enhancement,fc_variants,[82],C220E/P228E/L368E,82,Brinkmann U. (2017),Structure,Structure,C220E/P228E/L368E,,False
+Homo sapiens,IGHG2,"14-G2v73-1 h R5, R7, R10, CH3 R88",C220R/E224R/P228R/K409R,Structure,Heteropairing H-H enhancement,fc_variants,[82],C220R/E224R/P228R/K409R,82,Brinkmann U. (2017),Structure,Structure,C220R/E224R/P228R/K409R,,False
+Homo sapiens,IGHG2,"6-G2v60-66 CH2 A27, S115, S116",D265A/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[81],D265A/A330S/P331S,81,Armour K.L. et al. (1999),Silence,Silence,D265A/A330S/P331S,,False
+Homo sapiens,IGHG2,"14-G2v73-2 CH3 K13, K84.2",E357K/D399K,Structure,Heteropairing H-H enhancement,fc_variants,[85],E357K/D399K,85,Liu Z. et al. (2014),Structure,Structure,E357K/D399K,,False
+Homo sapiens,IGHG2,"8,10-G2v36-104 CH2 A84.3, Q84.4",F296A/N297Q,Effector | Physicochemical properties,No N-glycosylation site (CH2 N84.4) ADCC reduction | T-cell epitope elimination,fc_variants,[83],F296A/N297Q,83,"European Patent 2,526,967-A1 (Nov. 28, 2012)",Silence,Silence,F296A/N297Q,,False
+Homo sapiens,IGHG2,"6,10-G2v7 CH2 Y85.2, L92, A339",F300Y/V309L/T339A,Effector | Physicochemical properties,ADCC and CDC reduction | Acid-induced aggregation reduction,fc_variants,[80],F300Y/V309L/T339A,80,Saito S. et al. (2020),Silence,Silence,F300Y/V309L/T339A,,False
+Homo sapiens,IGHG2,"6-G2v2 CH2 Q30, L92, S115, S116",H268Q/V309L/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[78],H268Q/V309L/A330S/P331S,78,An Z. et al. (2009),Silence,Silence,H268Q/V309L/A330S/P331S,,False
+Homo sapiens,IGHG2,"14-G2v72-2 CH3 E26, E88",K370E/K409E,Structure,Heteropairing H-H enhancement,fc_variants,[85],K370E/K409E,85,Liu Z. et al. (2014),Structure,Structure,K370E/K409E,,False
+Homo sapiens,IGHG2,"2-G2v1 CH2 P1.4, L1.3, L1.2, G1.1",P234L/V235L/A237G,Effector,ADCC enhancement,fc_variants,[1],P234L/V235L/A237G,1,Chappel M.S. et al. (1991),Effector,Effector,P234L/V235L/A237G,,False
+Homo sapiens,IGHG2,"2-G2v7-1 CH2 D3, A110, E117",S239D/G327A/I332E,Effector,ADCC enhancement,fc_variants,[86],S239D/G327A/I332E,86,"US patent 2006/0134105-A1 (Jun. 22, 2006)",Effector,Effector,S239D/G327A/I332E,,False
+Homo sapiens,IGHG2,"9-G2v6 CH2 Q14, CH3 L107",T250Q/M428L,Half-life,Half-life increase,fc_variants,[79],T250Q/M428L,79,Hinton P. R. et al. (2004),Halflife,Halflife,T250Q/M428L,,False
+Homo sapiens,IGHG2,"6-G2v3-1 CH2 A1.2, A1",V235A/G237A,Effector,ADCC and CDC reduction,fc_variants,[116],V235A/G237A,116,Cole M.S. et al. J Immunol. 159(7):3613-21 (1997). PMID: 9317161 (1997),Silence,Silence,V235A/G237A,,False
+Homo sapiens,IGHG2,"6-G2v3 CH2 A1.2, A1, S2, A30, L92, S115, S116",V235A/G237A/P238S/H268A/V309L/A330S/P331S,Effector,ADCC and CDC reduction,fc_variants,[30],V235A/G237A/P238S/H268A/V309L/A330S/P331S,30,Vafa O. et al. (2014),Silence,Silence,V235A/G237A/P238S/H268A/V309L/A330S/P331S,,False
+Homo sapiens,IGHG4,"17-G4v57-4 CH1 S10, C84",C131S/V173C,Structure,Heteropairing H-L enhancement,fc_variants,[140],C131S/V173C,140,"Patent WO 2022/063262-A1 (March 31, 2022)",Structure,Structure,C131S/V173C,,False
+Homo sapiens,IGHG4,"6-G4v9 CH2 P1.4, V1.3, A1.2",E233P/F234V/L235A,Effector,ADCC and CDC reduction,fc_variants,[113],E233P/F234V/L235A,113,Lefranc MP (2024),Silence,Silence,E233P/F234V/L235A,,False
+Homo sapiens,IGHG4,"6,1-G4v9-66 CH2 P1.4, V1.3, A1.2, A27",E233P/F234V/L235A/D265A,Effector,ADCC and CDC reduction,fc_variants,[95],E233P/F234V/L235A/D265A,95,"US patent 9,988,450-B2 (Jun. 5, 2018)",Silence,Silence,E233P/F234V/L235A/D265A,,False
+Homo sapiens,IGHG4,"6-G4v7 CH2 E1.4del, P1.3, V1.2, A1.1",E233del/F234P/L235V/G236A,Effector,ADCC and CDC reduction,fc_variants,[75],E233del/F234P/L235V/G236A,75,Lefranc M. P. (2022),Silence,Silence,E233-/F234P/L235V/G236A,,False
+Homo sapiens,IGHG4,"1-G4v50 CH2 delE1.4, P1.3, V1.2, A1.1",E233del/L234P/L235V/G236A,Effector,ADCC reduction,fc_variants,[75],E233del/L234P/L235V/G236A,75,Lefranc M. P. (2022),Silence,Silence,E233-/L234P/L235V/G236A,,False
+Homo sapiens,IGHG4,"6-G4v4 CH2 A1.3, A1.2",F234A/L235A,Effector,ADCC and CDC reduction,fc_variants,[10],F234A/L235A,10,Xu D. et al. (2000),Silence,Silence,F234A/L235A,,False
+Homo sapiens,IGHG4,"6-G4v35 CH2 A1.3, A1.2, delG1.1, A1, S2",F234A/L235A/G236del/G237A/P238S,Effector,ADCC and CDC reduction,fc_variants,[113],F234A/L235A/G236del/G237A/P238S,113,Lefranc MP (2024),Silence,Silence,F234A/L235A/G236-/G237A/P238S,,False
+Homo sapiens,IGHG4,"6-G4v34 CH2 A1.3, A1.2, A1, S2",F234A/L235A/G237A/P238S,Effector,ADCC and CDC reduction,fc_variants,[113],F234A/L235A/G237A/P238S,113,Lefranc MP (2024),Silence,Silence,F234A/L235A/G237A/P238S,,False
+Homo sapiens,IGHG4,"18-G4v10 CH3 L85.1, K88",F405L/R409K,Structure,Bispecific IgG4 half-IG exchange control,fc_variants,[92],F405L/R409K,92,Vergoossen D. L. E. et al. (2021),Structure,Structure,F405L/R409K,,False
+Homo sapiens,IGHG4,"10-G4v111 CHS delG1, delK2",G446del/K447del,Structure,C-terminal heterogeneity reduction,fc_variants,[103],G446del/K447del,103,Duivelshof B. L. et al. (2022),Structure,Structure,G446-/K447-,,False
+Homo sapiens,IGHG4,"10-G4v83 CH3 R115, F116",H435R/Y436F,Physicochemical properties,Protein A binding abrogation,fc_variants,[97],H435R/Y436F,97,Steinhardt J. et al. (2019),Other,Other,H435R/Y436F,,False
+Homo sapiens,IGHG4,"10-G4v8 CH3 R115, F116, P125",H435R/Y436F/L445P,Physicochemical properties,Protein A binding abrogation,fc_variants,[75],H435R/Y436F/L445P,75,Lefranc M. P. (2022),Other,Other,H435R/Y436F/L445P,,False
+Homo sapiens,IGHG4,unk-47,K147E/Q175E,uknown propert,uknown propert,unknown_effects,,K147E/Q175E,,,Unknown,Unknown,K147E/Q175E,,False
+Homo sapiens,IGHG4,"18,10,9-G4v11 CH1 Q100, CH2 Y84.3",K196Q/F296Y,Physicochemical properties,pI engineering,fc_variants,[103],K196Q/F296Y,103,Duivelshof B. L. et al. (2022),Other,Other,K196Q/F296Y,,False
+Homo sapiens,IGHG4,"6-G4v3-44 CH2 E1.2, A114",L235E/P329A,Effector,ADCC and CDC reduction,fc_variants,[131],L235E/P329A,131,"Patent CA 3,117,212-A1 (Apr. 30, 2020)",Silence,Silence,L235E/P329A,,False
+Homo sapiens,IGHG4,"6-G4v3-49 CH2 E1.2, G114",L235E/P329G,Effector,ADCC and CDC reduction,fc_variants,[12],L235E/P329G,12,Schlothauer T. et al. Protein Eng Des Sel (2016),Silence,Silence,L235E/P329G,,False
+Homo sapiens,IGHG4,unk-12,M252Y/M428L,uknown propert,uknown propert,unknown_effects,,M252Y/M428L,,,Unknown,Unknown,M252Y/M428L,,False
+Homo sapiens,IGHG4,"9-G4v21 CH2 Y15.1, T16, E18",M252Y/S254T/T256E,Half-life,Half-life increase,fc_variants,[93],M252Y/S254T/T256E,93,Dumet C. et al. (2019),Halflife,Halflife,M252Y/S254T/T256E,,False
+Homo sapiens,IGHG4,"9-G4v22 CH2 T16, P91, CH3 A114",M252Y/V308P/N434A,Half-life,Half-life increase,fc_variants,[94],M252Y/V308P/N434A,94,Zhang J. et al. (2020),Halflife,Halflife,M252Y/V308P/N434A,,False
+Homo sapiens,IGHG4,unk-31,M428L/N434A,uknown propert,uknown propert,unknown_effects,,M428L/N434A,,,Unknown,Unknown,M428L/N434A,,False
+Homo sapiens,IGHG4,"9-G4v24 CH3 L107, S114",M428L/N434S,Half-life,Half-life increase,fc_variants,[93],M428L/N434S,93,Dumet C. et al. (2019),Halflife,Halflife,M428L/N434S,,False
+Homo sapiens,IGHG4,"17-KCv57-4 C-KAPPA C79, S126",Q160C/C214S,Structure,Heteropairing H-L enhancement,fc_variants,[140],Q160C/C214S,140,"Patent WO 2022/063262-A1 (March 31, 2022)",Structure,Structure,Q160C/C214S,,False
+Homo sapiens,IGHG4,"10-G4v89 CH3 R118, E120",Q438R/S440E,Physicochemical properties,Suppression of rheumatoid factor binding,fc_variants,[73],Q438R/S440E,73,Maeda A. et al. (2017),Other,Other,Q438R/S440E,,False
+Homo sapiens,IGHG4,"9-G4v42 CH2 Q14, CH3 L107",T250Q/M428L,Half-life,Half-life increase,fc_variants,[124],T250Q/M428L,124,Datta-Mannan A. et al. MAbs. 4(2):267-73 (2012). PMID: 22377715 (2012),Halflife,Halflife,T250Q/M428L,,False
+Homo sapiens,IGHG4,"14-G4v33 CH3 S22, A24, V86",T366S/L368A/Y407V,Structure,Heteropairing H-H enhancement,fc_variants,[26],T366S/L368A/Y407V,26,Atwell S. (1997),Structure,Structure,T366S/L368A/Y407V,,False
+Homo sapiens,IGHG4,unk-33,V397M/N434A,uknown propert,uknown propert,unknown_effects,,V397M/N434A,,,Unknown,Unknown,V397M/N434A,,False
+Homo sapiens,IGKC,unk-46,S131E/T180E,uknown propert,uknown propert,unknown_effects,,S131E/T180E,,,Unknown,Unknown,S131E/T180E,,False
+Homo sapiens,IGKC,unk-2,T109A/V110D,uknown propert,uknown propert,unknown_effects,,T109A/V110D,,,Unknown,Unknown,T109A/V110D,,False
+Homo sapiens,IGKC,unk-34,T109A/V110D/S114T/R211del/G212del/E213del/C214del,uknown propert,uknown propert,unknown_effects,,T109A/V110D/S114T/R211del/G212del/E213del/C214del,,,Unknown,Unknown,T109A/V110D/S114T/R211-/G212-/E213-/C214-,,False
+Homo sapiens,IGLC2,unk-48,T131K/S180K,uknown propert,uknown propert,unknown_effects,,T131K/S180K,,,Unknown,Unknown,T131K/S180K,,False
+Homo sapiens,IGLC3,unk-27,G107Adel/K207R/P211L/S215del,uknown propert,uknown propert,unknown_effects,,G107Adel/K207R/P211L/S215del,,,Unknown,Unknown,G107Adel/K207R/P211L/S215-,,False
+Homo sapiens,VH - VL,11-scFv-v1 C49 (VH)-C120 (VL),G44C/G100C,Structure,Additional disulfide bridge for domain stabilization,fc_variants,[133],G44C/G100C,133,Weatherill E.E. et al. Protein Eng Des Sel. 25(7):321-9 (2012). PMID: 22586154 (2012),Structure,Structure,G44C/G100C,,False
+Mus musculus,IGHG1,Musmus unk-4,E175Q/P192T/R193W/N399D/N401D,uknown propert,uknown propert,unknown_effects,,E175Q/P192T/R193W/N399D/N401D,,,Unknown,Unknown,E175Q/P192T/R193W/N399D/N401D,,False
+Mus musculus,IGHG1,Musmus unk-5,Q196E/K290Q/I296F/N371D,uknown propert,uknown propert,unknown_effects,,Q196E/K290Q/I296F/N371D,,,Unknown,Unknown,Q196E/K290Q/I296F/N371D,,False
+Mus musculus,IGHG1,Musmus unk-2,Q196E/K290Q/I296F/S302del/N371D,uknown propert,uknown propert,unknown_effects,,Q196E/K290Q/I296F/S302del/N371D,,,Unknown,Unknown,Q196E/K290Q/I296F/S302-/N371D,,False
